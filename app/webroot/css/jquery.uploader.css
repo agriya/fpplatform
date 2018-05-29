@@ -1,0 +1,87 @@
+@media screen;
+
+/* Firefox 3 fix: http://code.google.com/p/swfobject/wiki/faq */
+object { outline: none; }
+/* ---------------------------------------------------------------------------------------------------- BUTTON CONTAINER ---------------------------------------------------------------------------------------------------- */
+#btnContainer button {
+	width:120px;
+	height:30px;
+	border:none;
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	background:transparent;
+	background-position:0 0;
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+#btnContainer button span {
+	display:none;
+}
+/* ---------------------------------------------------------------------------------------------------- UPLOAD QUEUE ---------------------------------------------------------------------------------------------------- */
+div.wuQ {
+
+	background: #FFFFFF;
+	height: 200px;
+	overflow-y: scroll;
+	width:350px;
+	margin:0 0 0 176px;
+     border:1px solid #DDDDDD;
+}
+
+div.wuQ div.wuI {
+	color: #000000;
+	height: 40px;
+	margin: 0 0 0 0;	
+	background: url('../img/jquery_uploader/bgUpload.gif') bottom repeat-x;
+}
+
+a.file-delete {
+	background:url('../img/jquery_uploader/uploadDelete.gif') no-repeat left 0px;
+	}
+
+div.wuQ div.wuI div.wuIC {
+	padding: 12px;
+	font-size: 13px;
+}
+
+div.wuQ div.wuI div.wuIC a {
+	padding: 2px 0 2px 12px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+}
+
+div.wuQ div.wuI div.wuIC a:hover {
+	color: #0000ff;
+}
+
+div.wuQ div.wuI div.wuIC div.wuICPB {
+	display: none;
+	line-height: 14px;
+	margin: 4px 0 4px 44px;
+	border: 1px solid #999999;
+}
+
+div.wuQ div.wuI div.wuIC div.wuICPB div.wuICPBF {
+	overflow: hidden;
+	width: 0%;
+	height: 100%;
+	color: #ffffff;
+	background: #000033;
+	text-align: left;
+	font-size: 8px;
+	font-weight: bold;
+}
+
+div.wuQ div.wuI div.wuIC div.wuICPT {
+	display: none;
+	margin: 0 0 0 44px;
+}
+
+p.errorMsg {
+	background:#ffebf3;
+	border:1px solid #f06;
+	margin: 0 0 10px 0px;
+	width:100%;
+	padding:10px;
+}

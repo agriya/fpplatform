@@ -1,0 +1,101 @@
+.svwp {
+	width:50px;
+	height:20px;
+	background: #fff;
+}
+/*preloader stuff. do not modify!*/
+.svwp ul {
+	position:relative;
+	left:-999em;
+	z-index: 1;
+}
+/*preloader stuff. do not modify!*/
+.slideViewer {
+	position:relative;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	background:#fff;
+	z-index: 1;
+}
+.slideViewer ul {
+	/*your list of images*/
+	position:relative;
+	left:0;
+	top:0;
+	width:1%;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+		z-index: 1;
+}
+.slideViewer ul li {
+	float: left;
+}
+/*typographic info*/
+.slideViewer span.typo {
+	padding:6px;
+	/* do not modify padding */
+	background:#fff;
+	color:#000;
+	font:normal 10px Verdana;
+}
+.thumbSlider {
+	/*the thumbnails slider*/
+	overflow:hidden;
+	width:1%;
+	background:#fff;
+}
+.thumbSlider ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.thumbSlider ul li {
+	float:left;
+	margin:0;
+}
+.thumbSlider a {
+	color:#fff;
+	text-decoration:none;
+}
+.thumbSlider a img {
+	border:0;
+	display:block;
+	padding: 0;
+}
+.thumbSlider p.tmbrdr {
+	/* the border above -not around- each thumb */
+	/* width,height and top values are dynamically added by the script. Do not modify. */
+	position:relative;
+	left:0;
+	font-size:0.01em;
+	left:0;
+	margin:0;
+	padding:0;
+		z-index: 1;
+}
+a.left,a.right {
+	/*the left and right buttons (links)*/
+	background:transparent;
+	/* could be any color */
+	color:#ff0000;
+	font:bold 16px Arial;
+	overflow:hidden;
+}
+a.left span,a.right span {
+}
+a.left img,a.right img {
+	border: 0;
+}
+a.l_dis,a.r_dis {
+	background:transparent;
+	/* ALWAYS leave transparent. this is the 'disabled' state of the link ! */
+	cursor:default;
+}
+a.l_dis span,a.r_dis span {
+	display:none;
+}
+a:focus {
+	outline: none;
+}

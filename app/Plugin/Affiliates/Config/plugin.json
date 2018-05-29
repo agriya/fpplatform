@@ -1,0 +1,14 @@
+{
+	"name" : "Affiliates",
+	"description" : "By enabling this, the site user can refer our site to his friends and can earn some money, if they joined/funded in our site.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : "true",
+	"parent": "3.Plugins For All Modules.Children.Others.Children",
+	"icon" : "group",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "624",
+	"module_hash": "53b0be993cd14cc22f03f3df217f6297"
+}

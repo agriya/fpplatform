@@ -1,0 +1,6 @@
+/* CSS Document */
+
+h1 a, h3.twitt-bird,ul.menu li, ul.menu li.active, ul.menu li a , h3.twitt-bird a , .featured,form.search,dl.ratings-feedback dt.positive-feedback,dl.ratings-feedback dt.negative-feedback,dl.ratings-feedback dt.total-views,p.twitt-bird a,.banner a,.banner a:hover   {
+	behavior: url("iepngfix.htc");
+}
+

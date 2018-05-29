@@ -1,0 +1,25 @@
+//
+// Hero unit
+// --------------------------------------------------
+
+
+.hero-unit {
+  padding: 30px 0px;
+  margin-bottom: 30px;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 32px;
+  color: @heroUnitLeadColor;
+  background-color: @heroUnitBackground;
+  .border-radius(6px);
+  h1 {
+    margin-bottom: 0;
+    font-size: 60px;
+    line-height: 1;
+    color: @heroUnitHeadingColor;
+    letter-spacing: -1px;
+  }
+  li {
+    line-height: @baseLineHeight * 1.5; // Reset since we specify in type.less
+  }
+}

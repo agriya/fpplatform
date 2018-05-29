@@ -1,0 +1,1795 @@
+FP Ultra Plus - Change Log
+
+
+FPPlatformUltraPlus - v2.0b1
+============================
+
+First beta version released on Feb 28th, 2014
+
+
+
+FP Ultra Plus - 1.0a57 (Released 2014-02-28) [ View Issues ] 
+=========================================================
+
+Fifty seventh alpha version released on Feb 28th, 2014
+
+- 0174388: [-Bug PHP] Strict compliance in admin dashboard (amal_196at13) - resolved.
+- 0174389: [-Bug PHP] Displaying error page after new installation (amal_196at13) - resolved.
+- 0174390: [-Bug PHP] DB error after installation (amal_196at13) - resolved.
+- 0174303: [-Bug CSS] [QA] - In IE7 credit card number field alignment is not proper (arunraj_201at13) - resolved.
+- 0174325: [-Bug PHP] [QA] - In IE7 uploader is not working cannot able to add the job (amal_196at13) - closed.
+- 0174208: [-Bug PHP] [QA][Admin] - Default English language is missing in translation page. so cannot able to add the new translation (amal_196at13) - closed.
+- 0174327: [-Bug PHP] [QA] - After requirement add redirection is not proper (boopathi_026ac09) - closed.
+[7 issues]
+
+FP Ultra Plus - 1.0a56 (Released 2014-02-28) [ View Issues ] 
+=========================================================
+
+Fifty sixth alpha version released on Feb 28th, 2014
+
+- 0174371: [-Bug Unexpected Output] Two feedback user avatar displays in job view page instead of three - should be correct (boopathi_026ac09) - resolved.
+- 0174370: [-Bug Unexpected Output] Feedback for dispute info should not display in negative rating tab if Dispute not enabled mean -should be correct (boopathi_026ac09) - resolved.
+- 0174368: [-Bug Unexpected Output] "Content Type" should be "Contact Type" in admin master menu (boopathi_026ac09) - resolved.
+- 0174369: [-Bug Unexpected Output] Job can't order without Dispute Plugin - should be correct (boopathi_026ac09) - resolved.
+- 0174367: [-Bug Unexpected Output] Affiliate Plugin is disabled, but admin user listing "Affiliate User" filter option is there - should be remove (boopathi_026ac09) - resolved.
+- 0174127: [-Bug PHP] [QA] - Uploaded in pre requirement attachment is not getting display in activities (amal_196at13) - resolved.
+- 0174335: [-Bug PHP] [QA][Admin] - In IE third party user avatar size too big compare with other avtars (amal_196at13) - resolved.
+- 0174131: [-Bug PHP] [QA] - Wallet is disabled then cleared amount info should updated properly and If wallet is enabled also for direct payment like (boopathi_026ac09) - resolved.
+- 0174309: [-Bug PHP] [QA] - How it work page image is not loading in IE (arunraj_201at13) - closed.
+- 0174302: [-Bug PHP] [QA] - In payment page, Tab option is not working in IE7 (arunraj_201at13) - closed.
+- 0174301: [-Bug CSS] [QA] - Pay now button alignment is not proper in IE7 (arunraj_201at13) - closed.
+- 0174315: [-Bug PHP] [QA] - In request assign page, pagination link redirection is not proper in IE (arunraj_201at13) - closed.
+- 0174333: [-Bug CSS] [QA][Admin] - Chart and icon are not showing in IE7 through out the site (amal_196at13) - closed.
+- 0174263: [-Bug CSS] [QA][Admin] - Insight page icon should aligned properly with the layer (arunraj_201at13) - closed.
+- 0174360: [-Bug PHP] [QA][Admin] - Revenue is not getting updated properly (boopathi_026ac09) - closed.
+- 0174356: [-Bug PHP] [QA] - Resend activation link is selected then error message is showing but mail is delivered to the user twice (boopathi_026ac09) - closed.
+- 0174385: [-Bug Documentation] [QA] - Link name should changed properly (boopathi_026ac09) - closed.
+- 0174310: [-Bug CSS] [QA] - In IE7 reply label alignment is broken and Table layer alignment is not proper (arunraj_201at13) - closed.
+- 0174319: [-Bug CSS] [QA] - Sub menu layer get hide with the categories option (arunraj_201at13) - closed.
+- 0174331: [-Bug CSS] [QA] - In IE7 Icon get overlapped (arunraj_201at13) - closed.
+- 0174366: [-Bug Documentation] [QA] - In wiki all pages showing as ultraplus should get removed should show only fpplatform (boopathi_026ac09) - closed.
+- 0174326: [-Bug PHP] [QA] - In IE added job is displaying without the job image (amal_196at13) - closed.
+- 0174316: [-Bug PHP] [QA] - Active sales record is present but count is not getting showing (boopathi_026ac09) - closed.
+- 0174320: [-Bug Logic] [QA] - In affiliate page layer alignment is not proper (arunraj_201at13) - closed.
+- 0174296: [-Bug PHP] [QA] - In IE7 chart is not showing properly (amal_196at13) - closed.
+- 0174294: [-Bug PHP] [QA] - User avatar are not getting showing in IE (amal_196at13) - closed.
+- 0174308: [-Bug CSS] [QA] - Notification view style is broken in IE7 (arunraj_201at13) - closed.
+[27 issues]
+
+FP Ultra Plus - 1.0a55 (Released 2014-02-26) [ View Issues ] 
+=========================================================
+
+Fifty fifth alpha version released on Feb 26th, 2014
+
+- 0174363: [-Bug PHP] In IE7 chart is not showing properly in insights page (amal_196at13) - resolved.
+- 0174362: [-Bug CSS] In admin dashboard, "Action to be taken" design not proper in IE7 (amal_196at13) - resolved.
+- 0174323: [-Bug CSS] [QA] - In IE7 Price unit alignment is not proper (arunraj_201at13) - closed.
+- 0174237: [-Bug PHP] [QA] - Wallet plugin is enabled then this help info should not show (boopathi_026ac09) - closed.
+- 0174312: [-Bug CSS] [QA] - Message reply form style is broken in IE7 (arunraj_201at13) - closed.
+- 0174339: [-Bug PHP] [QA] - Contact types list is present in admin end but in contact us page such fields is not present (boopathi_026ac09) - closed.
+- 0174328: [-Bug PHP] [QA] - In Manage job page, action option is not working in IE (arunraj_201at13) - closed.
+- 0174361: [-Bug PHP] [QA] - In buyer review job status is not proper in seller login (boopathi_026ac09) - closed.
+- 0174358: [-Bug PHP] [QA] - Requirement view page, Like color is get highlighted for all requirement view page (amal_196at13) - closed.
+- 0174352: [-Bug CSS] [QA] - In Reset password, security question page submit button style is missing (boopathi_026ac09) - closed.
+- 0174280: [-Bug PHP] [QA] - Affiliate request is added flash message is not proper (arunraj_201at13) - closed.
+- 0174307: [-Bug PHP] [QA] - In IE8 money transfer account page, action link is not working its redirect to inactive path (arunraj_201at13) - closed.
+- 0174304: [-Bug CSS] [QA] - In money transfer accounts page, action icon alignment is not proper in IE7 (arunraj_201at13) - closed.
+- 0174324: [-Bug CSS] [QA] - In job add page, Check box alignment is not proper in IE7 (amal_196at13) - closed.
+- 0174265: [-Bug CSS] [QA][Admin] - Insight page icon should aligned properly with the layer (arunraj_201at13) - closed.
+- 0174297: [-Bug CSS] [QA] - In IE7 icon is not aligned center to the layer (arunraj_201at13) - closed.
+- 0174295: [-Bug PHP] [QA] - All Jobs are booking through other gateway not booked through stripe owner try to disconnect showing error message (boopathi_026ac09) - closed.
+- 0174283: [-Bug PHP] [QA] - In requirement listing page category page link redirect to Job category listing page (boopathi_026ac09) - closed.
+- 0174353: [-Bug PHP] [QA][Admin] - In sudopay transaction log Information is not getting updated empty record is present (boopathi_026ac09) - closed.
+- 0174354: [-Bug PHP] [QA] - Inactive user can able to login to the site (boopathi_026ac09) - closed.
+- 0174332: [-Bug PHP] [QA] - Search result showing case sensitive (boopathi_026ac09) - closed.
+- 0174357: [-Bug PHP] [QA] - New register the user default showing as connected (boopathi_026ac09) - closed.
+- 0174343: [-Bug PHP] [QA][Admin] - In mail contact us path is wrongly showing (arunraj_201at13) - closed.
+- 0174267: [-Bug PHP] [QA][Admin] - Once wallet is in inactive then plugin also should changed to disabled (boopathi_026ac09) - closed.
+- 0174242: [-Bug PHP] [QA] - Wallet gateway changed to inactive still in user end wallet gateway is displaying (boopathi_026ac09) - closed.
+- 0174274: [-Bug PHP] [QA] - Activities page style is broken in IE7 & IE8 (amal_196at13) - closed.
+- 0172330: [-Bug PHP] [QA][Admin] - User delete redirect to error page (boopathi_026ac09) - closed.
+- 0174351: [-Bug PHP] [QA] - Newly register user default avatar is not proper (boopathi_026ac09) - closed.
+[28 issues]
+
+FP Ultra Plus - 1.0a54 (Released 2014-02-25) [ View Issues ] 
+=========================================================
+
+Fifty fourth alpha version released on Feb 25th, 2014
+
+- 0174345: [-Bug PHP] JS error(For the first time after "Clear Cache") (amal_196at13) - resolved.
+- 0174344: [-Bug PHP] JS error(For the first time after "Clear Cache") (amal_196at13) - resolved.
+- 0174305: [-Bug CSS] Footer design is not proper in IE7 (amal_196at13) - resolved.
+- 0174318: [-Bug PHP] [QA] - In my jobs Active and completed sales link redirection is not proper (arunraj_201at13) - closed.
+- 0174341: [-Bug PHP] [QA] - In requirement and job favorite add is keep on loading (boopathi_026ac09) - closed.
+- 0174257: [-Bug CSS] [QA] - In IE7 footer alignment is broken (amal_196at13) - closed.
+- 0174338: [-Bug PHP] [QA][Admin] - Count and link records count getting varying in Job types (boopathi_026ac09) - closed.
+- 0174313: [-Bug CSS] [QA] - In request listing page, Truncate is not working in IE8 (arunraj_201at13) - closed.
+- 0171939: [-Bug PHP] [QA] - After connecting to paypal flash message is missing (boopathi_026ac09) - closed.
+- 0174277: [-Bug CSS] [QA] - In IE7 layer get hide with the avatar (amal_196at13) - closed.
+- 0174236: [-Bug PHP] [QA][Admin] - Any action performed in admin. flash message is not displaying (arunraj_201at13) - closed.
+- 0174278: [-Bug CSS] [QA] - Radio icon get overlapped with the label (amal_196at13) - closed.
+- 0174284: [-Bug PHP] [QA][Admin] - Gmail user record is present but record is not getting updated in the gamil filter (arunraj_201at13) - closed.
+- 0174300: [-Bug CSS] [QA] - Card image get hide with default image in IE (arunraj_201at13) - closed.
+- 0174246: [-Bug PHP] [QA] - In IE7 & IE8 Check box alignment is broken and password field enter value are not showing (amal_196at13) - closed.
+- 0174262: [-Bug CSS] [QA] - In IE7 google and yahoo icon is not showing (amal_196at13) - closed.
+- 0174122: [-Bug PHP] [QA] - In payment pending, complete purchase page style is open in light box with scroll bar (arunraj_201at13) - closed.
+- 0174254: [-Bug PHP] [QA] - Logout the admin session script error is showing in IE (amal_196at13) - closed.
+- 0174251: [-Bug PHP] [QA] - Script error is showing home page in IE (amal_196at13) - closed.
+- 0174334: [-Bug PHP] [QA][Admin] - In IE7 admin links are not working (arunraj_201at13) - closed.
+- 0174255: [-Bug PHP] [QA][Admin] - Available balance amount is wrongly showing (arunraj_201at13) - closed.
+- 0174322: [-Bug PHP] [QA] - Inactive and suspended record count are getting display in Categories list (boopathi_026ac09) - closed.
+- 0174118: [-Bug PHP] [QA] - Delete the message, flash message is not displaying (arunraj_201at13) - closed.
+- 0174261: [-Bug PHP] [QA][Admin] - In User Private beta and prelaunch filter more action delete is not working (arunraj_201at13) - closed.
+- 0174210: [-Bug PHP] [QA] - Security question field is not needed for third party register (arunraj_201at13) - closed.
+- 0174299: [-Bug Documentation] [QA] - Payout page title should changed properly (boopathi_026ac09) - closed.
+- 0174330: [-Bug PHP] [QA] - In requirement page, more action option redirect to error page (boopathi_026ac09) - closed.
+- 0174321: [-Bug PHP] [QA] - Now viewing all jobs are redirect to error page (boopathi_026ac09) - closed.
+[28 issues]
+
+FP Ultra Plus - 1.0a53 (Released 2014-02-24) [ View Issues ] 
+=========================================================
+
+Fifty third alpha version released on Feb 24th, 2014
+
+- 0161369: [-Bug Logic] [QA] - For Online job, verification code displays in mail sent to buyer (arunraj_201at13) - resolved.
+- 0174271: [-Bug PHP] [QA] - xss issue is present in request add and job add (arunraj_201at13) - resolved.
+- 0174281: [+Enhancement] Paid, Core and Free Plugins need to updated with ID and Hash (boopathi_026ac09) - resolved.
+- 0174272: [-Bug PHP] login with Linkedin leads to error page. (First time its working fine.) (amal_196at13) - resolved.
+- 0174249: [+Enhancement] Logo.svg needed in header link tag (boopathi_026ac09) - resolved.
+- 0174248: [-Bug Unexpected Output] Logo need to changed as "FPPlatform" (boopathi_026ac09) - resolved.
+- 0174214: [-Bug PHP] [QA] - In activities Verification code is not needed for online jobs (arunraj_201at13) - closed.
+- 0174238: [-Bug PHP] [QA] - Admin add the job then it should directly move to active status (arunraj_201at13) - closed.
+- 0174107: [-Bug Documentation] [QA][Admin] - Bullet should not present for live tour button (boopathi_026ac09) - closed.
+- 0174209: [-Bug CSS] [QA] - In how it work page label is not clearer (boopathi_026ac09) - closed.
+- 0174201: [-Bug CSS] [QA] - Work coverage radius field alignment is broken in offline job add (arunraj_201at13) - closed.
+- 0174252: [-Bug PHP] [QA][Admin] - Admin end logo is displaying as ultraplus (boopathi_026ac09) - closed.
+- 0174212: [-Bug PHP] [QA] - Once social marketing plugin is disabled then flag option also not showing in Job and request view page (arunraj_201at13) - closed.
+- 0174250: [-Bug PHP] [QA][Admin] - In IE user record are not showing admin (boopathi_026ac09) - closed.
+- 0174138: [-Bug PHP] [QA] - Preapproval cancel in paypal, seller cancel, admin cancel and owner rejected that amount get increased in buyer wallet (arunraj_201at13) - closed.
+- 0174129: [-Bug PHP] [QA] - Work price 100 then Site commission is 10 amount is mention but wrong amount release in gateway 1 is released (arunraj_201at13) - closed.
+- 0174244: [-Bug PHP] [QA][Admin] - Requirement favorite delete redirect to error page in action link and more action link (boopathi_026ac09) - closed.
+- 0174227: [-Bug PHP] [QA][Admin] - Update through all more action in job listing page redirect to error page (boopathi_026ac09) - closed.
+- 0164502: [-Bug PHP] [QA] - Merchant referral Bonus options should remove from throughout the site (arunraj_201at13) - closed.
+- 0174231: [-Bug PHP] [QA][Admin] - Update through more action in user listing page redirect to error (boopathi_026ac09) - closed.
+- 0174133: [-Bug PHP] [QA][Admin] - Wallet plugin is disable then in payment gateway wallet gateway should not show (arunraj_201at13) - closed.
+- 0174275: [-Bug PHP] [QA] - In requirement is waiting for admin approval but count getting display in user view page (arunraj_201at13) - closed.
+- 0174268: [-Bug PHP] [QA] - Requirement plugin is disabled in admin still this option is displaying in dashboard page and admin user listing page (boopathi_026ac09) - closed.
+- 0174205: [-Bug PHP] [QA] - Uploader attachment should accept only image type other file type are not accepting (amal_196at13) - closed.
+- 0174241: [-Bug PHP] [QA][Admin] - In Transaction Insights Revenue from sign up fee option is not present in the site then option should removed, rev (arunraj_201at13) - closed.
+- 0174121: [-Bug PHP] [QA] - In Deliver the work is not working with select the file option, without selecting the filed deliver work is working (amal_196at13) - closed.
+- 0174243: [-Bug PHP] [QA] - Request view page flag option is missing plugin also enabled status (arunraj_201at13) - closed.
+- 0174258: [-Bug PHP] [QA] - Now site name should changed as fpplatform in prelaunch and private beta and all mail content should get changed (boopathi_026ac09) - closed.
+- 0174239: [-Bug PHP] [QA][Admin] - Job view page admin control panel is missing (amal_196at13) - closed.
+- 0172361: [-Bug PHP] [QA] - In all email templates link and cursor property is missing for the site path, contact us and site name (arunraj_201at13) - closed.
+- 0174213: [-Bug PHP] [QA][Admin] - In admin action link is not working in requirement listing page (boopathi_026ac09) - closed.
+- 0174266: [-Bug PHP] [QA][Admin] - Update the settings through plugin redirect to error page(for all plugin this issue is existing) (amal_196at13) - closed.
+- 0174203: [-Bug PHP] [QA] - For offline job booking is not working always showing this error but all field value are get added (amal_196at13) - closed.
+- 0174256: [-Bug PHP] [QA][Admin] - Referred by username wrongly showing (boopathi_026ac09) - closed.
+- 0174282: [-Bug PHP] [QA] - Launch mode plugin is disabled then try login as third party login redirect to fatal error (boopathi_026ac09) - closed.
+[35 issues]
+
+FP Ultra Plus - 1.0a52 (Released 2014-02-21) [ View Issues ] 
+=========================================================
+
+Fifty second alpha version released on Feb 21th, 2014
+
+- 0172389: [-Bug PHP] [QA] - Manual payment account detail should show properly in help info (boopathi_026ac09) - resolved.
+- 0174173: [-Bug Documentation] [QA] - Spell error in dispute information (arunraj_201at13) - resolved.
+- 0174215: [-Bug Logic] Upload profile image field should appear in profile edit page if social marketing plugin is disabled (amal_196at13) - resolved.
+- 0174216: [-Bug PHP] Alternate text for job is not proper in user dashboard (amal_196at13) - resolved.
+- 0174217: [-Bug PHP] In home page, unwanted space in "Post a job" title (amal_196at13) - resolved.
+- 0174218: [-Bug PHP] advantages title should be propare in home page "Fpplatform" -> "FPPlatform" (amal_196at13) - resolved.
+- 0174211: [-Bug PHP] User change language not working properly (amal_196at13) - resolved.
+- 0174202: [-Bug PHP] Duplicate settings "Enable OpenId" (amal_196at13) - resolved.
+- 0174199: [-Bug PHP] In requirement view page, post a job link is missing if not login (amal_196at13) - resolved.
+- 0174197: [+Enhancement] In Sitemap XML user view page link also needed; Also active jobs should be displayed (boopathi_026ac09) - resolved.
+- 0174196: [-Bug Unexpected Output] In manage jobs page, no need of currency symbol on every records(Already displayed in title) (amal_196at13) - resolved.
+- 0174194: [-Bug CSS] In manage requests page, design is not proper for disapproved / admin suspended records (amal_196at13) - resolved.
+- 0174192: [-Bug PHP] In add requests second step, pagination should load in ajax (amal_196at13) - resolved.
+- 0174191: [-Bug PHP] In add requirements page, Page title is not proper if only one job type is enabled (amal_196at13) - resolved.
+- 0174188: [-Bug Logic] Manage requests page should be appeared only to the registered users (amal_196at13) - resolved.
+- 0174187: [-Bug CSS] Currency symbol style is not proper in applied jobs index (amal_196at13) - resolved.
+- 0174186: [-Bug PHP] In jobs index page, alternate name for job type in filters is not proper (amal_196at13) - resolved.
+- 0174185: [-Bug CSS] In plugins page, settings button design not proper (amal_196at13) - resolved.
+- 0174183: [-Bug PHP] Change password option should not come for "Third party" register (amal_196at13) - resolved.
+- 0174184: [-Bug PHP] "Third party" registered count is not proper and filter not working properly (amal_196at13) - resolved.
+- 0174182: [-Bug PHP] Alternate name not displayed properly in Edit job types (amal_196at13) - resolved.
+- 0174181: [-Bug PHP] Alternate name issues in disputes admin index page (amal_196at13) - resolved.
+- 0174180: [-Bug PHP] Alternate name not displayed properly in Insights (amal_196at13) - resolved.
+- 0174207: [-Bug PHP] [QA] - Requirement plugin is disabled still, Requirement posted layer is displaying in Engagement (boopathi_026ac09) - closed.
+- 0174140: [-Bug Documentation] [QA] - Tool tip spell error (arunraj_201at13) - closed.
+- 0174193: [-Bug PHP] [QA] - Favorite requirement and work unlike option is not working is keep on loading (boopathi_026ac09) - closed.
+- 0174168: [-Bug PHP] [QA] - Rejected the job or cancel the job, flash message is missing (arunraj_201at13) - closed.
+- 0174166: [-Bug PHP] [QA] - In my works select option is not working (arunraj_201at13) - closed.
+- 0174116: [-Bug PHP] [QA] - User is not earned then zero should present (amal_196at13) - closed.
+- 0174135: [-Bug PHP] [QA] - Negative feedback is added for this job but still in view page positive feedback get updated (arunraj_201at13) - closed.
+- 0174130: [-Bug PHP] [QA] - User already rated but rating is not get updated (arunraj_201at13) - closed.
+- 0174139: [-Bug PHP] [QA] - Negative feedback is added for job booking but count is not get updated (arunraj_201at13) - closed.
+- 0174171: [-Bug PHP] [QA] - In rss page only showing the buy page jobs other pagination jobs are not get listed (boopathi_026ac09) - closed.
+- 0174106: [-Bug PHP] [QA] - In find friend through facebook done link is not working properly (boopathi_026ac09) - closed.
+- 0174126: [-Bug PHP] [QA][Admin] - Cron link redirect to gateway time out (boopathi_026ac09) - closed.
+- 0174110: [-Bug PHP] [QA] - Job view edit option redirect to error page (boopathi_026ac09) - closed.
+[36 issues]
+
+FP Ultra Plus - 1.0a51 (Released 2014-02-20) [ View Issues ] 
+=========================================================
+
+Fifty first alpha version released on Feb 20th, 2014
+
+- 0174179: [-Bug PHP] Alternate name not displayed properly in admin dashboard charts (amal_196at13) - resolved.
+- 0174176: [-Bug Logic] Should not come Offline/Online filter option in job listing page, If any one of sub module is disabled (boopathi_026ac09) - resolved.
+- 0174177: [-Bug Unexpected Output] Request view page $5 is hardcoded in Apply button - should be correct (boopathi_026ac09) - resolved.
+- 0174178: [-Bug Unexpected Output] Currency position setting should be handle in job view page Buy button amount; (boopathi_026ac09) - resolved.
+- 0174175: [-Bug Logic] Disable option not found for Requests plugin (amal_196at13) - resolved.
+- 0174174: [-Bug CSS] While like or unlike, Heartbeat image in jobs & requests is not proper (amal_196at13) - resolved.
+- 0174167: [-Bug Unexpected Output] "Favorites" and "Flag" disabled condition are need to check in job and request admin listing for counts... (boopathi_026ac09) - resolved.
+- 0174128: [-Bug Unexpected Output] admin/payment_gateways - Active/Disable of payment gateway for Job Order - is not update properly - should be correct (boopathi_026ac09) - resolved.
+- 0174124: [-Bug Unexpected Output] When choose profile image as "LinkedIn" image, many places user site image is wrongly displayed - should correct (boopathi_026ac09) - resolved.
+- 0174123: [-Bug Logic] Admin settings edit page goes to "No Settings available" page, while submitting second time. (amal_196at13) - resolved.
+- 0174120: [-Bug Unexpected Output] SudoPay current plan not updated properly when sync in test mode - should be correct (boopathi_026ac09) - resolved.
+- 0174119: [-Bug Unexpected Output] When Wallet plugin is disabled, In payment page, site should display seller's connected gateway (not buyer connected gateway) (boopathi_026ac09) - resolved.
+- 0174117: [-Bug Logic] Wallet plugin is in enabled status, seller can publish jobs - need to allow when job add and update (boopathi_026ac09) - resolved.
+- 0174114: [-Bug Logic] "Font" folder need to copy when copy static contents to amazon s3 in high performace plugin (amal_196at13) - resolved.
+- 0174115: [-Bug PHP] [QA] - Credit card number field unnecessary validation is present. so cannot able to book the job through credit card (boopathi_026ac09) - closed.
+[15 issues]
+
+FP Ultra Plus - 1.0a50 (Released 2014-01-07) [ View Issues ] 
+=========================================================
+
+Fiftieth alpha version released on Jan 07th 2014
+
+- 0173157: [-Bug PHP] In admin side google analytics page alternate name for job not handled (amala_187at12) - resolved.
+- 0173158: [-Bug PHP] In admin side requirment add page job altername not handled properly since it showing job type (amala_187at12) - resolved.
+- 0173159: [-Bug PHP] In Report Requirement model request alternate name is not handled properly (amala_187at12) - resolved.
+- 0173160: [-Bug PHP] In job order add page, job image title is not proper (amala_187at12) - resolved.
+- 0173161: [-Bug PHP] In job order payment page, job image title is not proper (amala_187at12) - resolved.
+- 0173162: [-Bug PHP] In add wallet page form alignment not proper some tope space need (amala_187at12) - resolved.
+- 0173163: [-Bug PHP] In Job order payment page alignmnet not proper (amala_187at12) - resolved.
+- 0173156: [-Bug PHP] In admin side, Users Engagement alternate name for job not handled (amala_187at12) - resolved.
+- 0173135: [-Bug PHP] Payment gateways option list alignmnet not proper in job order page (amala_187at12) - resolved.
+- 0173136: [-Bug PHP] Cant able pay for joborder by credit validation error showing like "Credit card number should be Numeric" (amala_187at12) - resolved.
+- 0173137: [-Bug PHP] Payment gateways disconnect option is not working proper (amala_187at12) - resolved.
+- 0173138: [-Bug PHP] You have new order for - notification not came when pay through sudopay option (amala_187at12) - resolved.
+- 0173139: [-Bug PHP] Deliver order tab form not align properly (amala_187at12) - resolved.
+- 0173140: [-Bug PHP] Affiliates page title duplicates (amala_187at12) - resolved.
+- 0173142: [-Bug PHP] Page design missing when deliver order with invalid file (amala_187at12) - resolved.
+- 0173143: [-Bug PHP] SudoPay api request logged two times for each request in sudopay (amala_187at12) - resolved.
+- 0173144: [-Bug PHP] When add job order notice error like Undefined index: commission_amount is showing (amala_187at12) - resolved.
+- 0173145: [-Bug PHP] Job add skip icon title not proper (amala_187at12) - resolved.
+- 0173146: [-Bug PHP] Admin side master menu still show job after change the altername of the job with someother term (amala_187at12) - resolved.
+- 0173147: [-Bug PHP] Admin side job type page still show job in title and page title after change the altername of the job with someother term (amala_187at12) - resolved.
+- 0173148: [-Bug PHP] In admin side request flag category page leads to error page once the request alternate name changed (amala_187at12) - resolved.
+- 0173149: [-Bug PHP] In admin side job flag category page leads to error page once the job alternate name changed (amala_187at12) - resolved.
+- 0173151: [-Bug PHP] User profile after select the image submit goes error page (amala_187at12) - resolved.
+[23 issues]
+
+FP Ultra Plus - 1.0a49 (Released 2014-01-02) [ View Issues ] 
+=========================================================
+
+Forty ninth alpha version released on Jan 02nd 2014
+
+- 0172691: [+Enhancement->CSS/Design] captcha_play icons alignment need (anandam_023ac09) - resolved.
+- 0172692: [-Bug PHP] Third party logins not working properly in Enabled Redis and Enabled Memcached (anandam_023ac09) - resolved.
+- 0172693: [-Bug Coding Standard->Other] facebook page link can't access, it redirect to our site (anandam_023ac09) - resolved.
+- 0172694: [-Bug PHP] undefined index issue in user view page (anandam_023ac09) - resolved.
+- 0172695: [+Enhancement->CSS/Design] Online/offline jobs listing, favorite icon alignment issue (anandam_023ac09) - resolved.
+- 0172696: [-Bug PHP] "Admin panel" edit link should be open with admin layout (anandam_023ac09) - resolved.
+- 0172697: [-Bug PHP] Captch not playing in registration page (anandam_023ac09) - resolved.
+- 0172698: [-Bug PHP] Register chart not working properly in insight chart page (anandam_023ac09) - resolved.
+- 0172699: [-Bug JavaScript] Autocomplete design not proper in compose message page (anandam_023ac09) - resolved.
+- 0172700: [Textual Error] admin header menu, 'Jobs" menu - Request -> Requests (anandam_023ac09) - resolved.
+- 0172701: [-Bug PHP] undefined index issue in payment gateway edit page. (anandam_023ac09) - resolved.
+- 0172702: [-Bug PHP] No need "Add" option for Job types (anandam_023ac09) - resolved.
+- 0172703: [-Bug PHP] Job categories listing page, filters missing (anandam_023ac09) - resolved.
+- 0172704: [-Bug PHP] Request flag goes error page (anandam_023ac09) - resolved.
+- 0172705: [-Bug PHP] request view page caregory link should be filter requests (anandam_023ac09) - resolved.
+- 0172706: [-Bug CSS] job view page, Title design should be align properly. (anandam_023ac09) - resolved.
+- 0172707: [-Bug PHP] compose message without enter to fields that should be display error (anandam_023ac09) - resolved.
+- 0172708: [-Bug PHP] Unpublished job should not be share (anandam_023ac09) - resolved.
+- 0172709: [-Bug JavaScript] Credit card and Credit Card Expire javascript effect should be need (anandam_023ac09) - resolved.
+[19 issues]
+
+FP Ultra Plus - 1.0a48 (Released 2013-12-28) [ View Issues ] 
+=========================================================
+
+Forty eighth alpha version released on Dec 27th 2013
+
+- 0172673: [-Bug PHP] For newly registered user job posted shows empty instead of '0' in user dashboard page (amala_187at12) - resolved.
+- 0172674: [-Bug PHP] Admin side transaction page undefined error shows for "add amount of wallet" transactions (amala_187at12) - resolved.
+- 0172675: [-Bug PHP] In job add, payout step page after connect disconnect option not present (amala_187at12) - resolved.
+- 0172676: [-Bug PHP] When seller reject the job, undefined index user, projectfund are raised. If teh buyer purchase through paypal (amala_187at12) - resolved.
+- 0172677: [-Bug PHP] After clear the cache, site load without style in first time (amala_187at12) - resolved.
+- 0172678: [-Bug PHP] Payout step after connect no need refresh of page after 60 seconds (amala_187at12) - resolved.
+- 0172679: [-Bug PHP] Tidy error is present through out the site (amala_187at12) - resolved.
+- 0172680: [-Bug PHP] Yahoo import friends not working (amala_187at12) - resolved.
+- 0172681: [-Bug PHP] Installation steps not working properly (amala_187at12) - resolved.
+[9 issues]
+
+FP Ultra Plus - 1.0a47 (Released 2013-12-19) [ View Issues ] 
+=========================================================
+
+Forty seventh alpha version released on Dec 24th 2013
+
+- 0172337: [+Enhancement] [QA] - Apply any one of the request then that title other information are not get updated in Job add page (anandam_023ac09) - resolved.
+- 0172542: [+Feature Core] [QA] - Seller cannot able to change the payout account once connected and cannot able to view the payout account information (anandam_023ac09) - resolved.
+- 0172055: [-Bug Documentation] [QA][Admin] - Spacing should present between the label for all setting selecting through plugins (anandam_023ac09) - resolved.
+- 0171944: [+Enhancement] [QA] - Job page and request page, filter option should present (anandam_023ac09) - resolved.
+- 0172227: [-Bug CSS] [QA] - Icon and title spacing should present (anandam_023ac09) - resolved.
+- 0172306: [-Bug CSS] [QA][Admin] - Subscribe filter should display in next line (amal_196at13) - resolved.
+- 0172631: [-Bug PHP] Pagination should loaded by pjax not in ajax (amala_187at12) - resolved.
+- 0172632: [-Bug PHP] Admin site listing page, filter and more action name are differ and not consistency (amala_187at12) - resolved.
+- 0172633: [-Bug PHP] In activities page seller attachment display differ from markup (amala_187at12) - resolved.
+- 0172634: [-Bug PHP] When click pagination in job favourites page header shows twices (amala_187at12) - resolved.
+- 0172635: [-Bug PHP] Job Coverage Radius setting not affected in view page map (amala_187at12) - resolved.
+- 0172636: [-Bug PHP] Yahoo consumer key display in Social Marketing in admin side settings (amala_187at12) - resolved.
+- 0172637: [-Bug PHP] Commission Settings link touch to info in common settings page in admin side (amala_187at12) - resolved.
+- 0172630: [-Bug PHP] All filter count is mismatch the original count in my order page (amala_187at12) - resolved.
+- 0172629: [-Bug PHP] Mutual Cancelled filter missing in job order page and my shopping page (amala_187at12) - resolved.
+- 0172628: [-Bug PHP] Request Assign a job functionality missing in job add page (amala_187at12) - resolved.
+- 0172627: [-Bug PHP] Waiting for acceptance status description not proper (amala_187at12) - resolved.
+- 0172626: [-Bug PHP] When Dispute plugin disabled user side leads to error page (amala_187at12) - resolved.
+- 0172624: [-Bug PHP] When RequestFavorites plugin disabled user side leads to error page (amala_187at12) - resolved.
+- 0172623: [-Bug PHP] While pay through manual payment option it shows undefined error return page (amala_187at12) - resolved.
+- 0172638: [-Bug PHP] In affiliate add and edit page Approved? field alignment missing (amala_187at12) - resolved.
+- 0172619: [-Bug PHP] Dispute conversation message display twice in activities page (amala_187at12) - resolved.
+- 0172617: [-Bug PHP] Message compose page alignmnet missing for from, to and job fields (amala_187at12) - resolved.
+- 0172616: [-Bug PHP] When click accpet order in activities page confirmation box comes twice (amala_187at12) - resolved.
+- 0172615: [-Bug CSS] Activities page Rejected status style missing (amala_187at12) - resolved.
+- 0172621: [-Bug PHP] Social page border touch the banner (amala_187at12) - resolved.
+- 0172601: [-Bug PHP] admin clear cache, webroot/cache folder missing error display (anandam_023ac09) - resolved.
+- 0172602: [-Bug CSS] admin setting menu drop down -> "Regional, Currency & Language" active style problem (anandam_023ac09) - resolved.
+- 0172603: [-Bug CSS] admin setting page, heading and info between need space (anandam_023ac09) - resolved.
+- 0172604: [-Bug CSS] Setting edit page, "Widget #1" two heading available (anandam_023ac09) - resolved.
+- 0172605: [-Bug CSS] Setting Third Party API edit page, setting display order and labels missing (anandam_023ac09) - resolved.
+- 0172606: [-Bug PHP] Settings High Performance edit page, label and button missing (anandam_023ac09) - resolved.
+- 0172607: [-Bug PHP] Job/request add & edit category field listing order should be ASC order (anandam_023ac09) - resolved.
+- 0172608: [Textual Error] Header label "How It Works" -> "How it Works" (anandam_023ac09) - resolved.
+- 0172609: [-Bug CSS] heading under line missing (anandam_023ac09) - resolved.
+- 0172610: [-Bug PHP] Request view page, before login Edit button no need (anandam_023ac09) - resolved.
+- 0172611: [-Bug CSS] User image border missing (anandam_023ac09) - resolved.
+- 0172612: [-Bug JavaScript] Job edit page not loading properly in pjax (anandam_023ac09) - resolved.
+- 0172613: [-Bug PHP] link missing in job image in buy page (anandam_023ac09) - resolved.
+- 0172614: [-Bug PHP] Job order and payment page, Positive rating display wrongly (anandam_023ac09) - resolved.
+- 0172618: [-Bug CSS] admin header menu, "payment Gateways" icon alignment (anandam_023ac09) - resolved.
+- 0172620: [-Bug CSS] job order/payment page, "Featured" label color wrong (anandam_023ac09) - resolved.
+- 0172622: [-Bug CSS] Request favorites listing page, ip column should be align properly (anandam_023ac09) - resolved.
+[43 issues]
+
+FP Ultra Plus - 1.0a46 (Released 2013-12-17) [ View Issues ] 
+=========================================================
+
+Forty sixth alpha version released on Dec 19th, Dec 2013
+
+- 0171970: [-Bug PHP] [QA] - In money transfer account, Cursor property is missing for action icons (amala_187at12) - resolved.
+- 0172375: [-Bug PHP] [QA] - Dispute opened page redirection is not proper (amala_187at12) - resolved.
+- 0172578: [-Bug PHP] Payout connection will not get disconnect under certain conditions (amala_187at12) - resolved.
+- 0172577: [+Enhancement] When open a dispute it is redirect to new window with no activities (amala_187at12) - resolved.
+- 0172576: [-Bug PHP] When post message or open a dispute that activities is showing 3 times in activities list (amala_187at12) - resolved.
+- 0172575: [-Bug PHP] All status are not display activities list (amala_187at12) - resolved.
+- 0172574: [-Bug PHP] When empty db import and home page display error (amala_187at12) - resolved.
+- 0172573: [-Bug PHP] Tag search leads to error page (amala_187at12) - resolved.
+- 0172572: [-Bug PHP] Whle launch mode disable, Admin side user listing error display (amala_187at12) - resolved.
+- 0171993: [-Bug PHP] [QA] - Flag and suspend option is selected keep on loading for long time (amala_187at12) - resolved.
+- 0172365: [-Bug PHP] [QA][Admin] - Two user can able to use same mail id (amala_187at12) - resolved.
+- 0172045: [-Bug PHP] [QA][Admin] - Private beta and pre-launch filter missing in user listing as like crowdfunding (amala_187at12) - resolved.
+- 0172355: [-Bug PHP] [QA] - Admin update online job/request validation is showing for address field (amala_187at12) - resolved.
+- 0171981: [-Bug Documentation] [QA][Admin] - Google translation, Help info is not proper (amala_187at12) - resolved.
+- 0172118: [-Bug PHP] [QA] - Privatebeta and prelaunch subscription mail is added confirmation mail is not delivered and Invitation code also not deli (amala_187at12) - resolved.
+- 0172360: [-Bug PHP] [QA] - Mandatory field and validation should present for Job type field (amala_187at12) - resolved.
+- 0172334: [-Bug PHP] [QA] - After connected no flash message is displaying (amala_187at12) - resolved.
+- 0172339: [-Bug PHP] [QA] - Facebook share is keep on loading (amala_187at12) - resolved.
+- 0172079: [-Bug PHP] [QA] - In register page, Facepile is keep on loading (amala_187at12) - resolved.
+- 0171987: [-Bug PHP] [QA] - Viewing the related message of the jobs content alignment is not proper (meganathan_203ac11) - resolved.
+- 0171989: [-Bug CSS] [QA] - Action icon style is varying for buyer and seller (meganathan_203ac11) - resolved.
+- 0171996: [-Bug CSS] [QA][Admin] - Select option and more action should aligned center (meganathan_203ac11) - resolved.
+- 0171997: [-Bug PHP] [QA][Admin] - Insights current(today) charts dates records are not updating properly (meganathan_203ac11) - resolved.
+- 0172030: [-Bug PHP] [QA] - Linkedin i have uploaded the profile image is not getting display in change profile page (meganathan_203ac11) - resolved.
+- 0172157: [-Bug PHP] [QA] - Check box style is broken (meganathan_203ac11) - resolved.
+- 0172172: [-Bug PHP] [QA] - Total earned is not getting updated and cleared chart value is not updating (meganathan_203ac11) - resolved.
+- 0172341: [-Bug PHP] [QA] - Job share through twitter job name is displaying twice (meganathan_203ac11) - resolved.
+- 0172346: [-Bug PHP] [QA] - Buy the Job through manual payment, then info should changed properly (meganathan_203ac11) - resolved.
+- 0172364: [-Bug PHP] [QA][Admin] - In job listing, more option flag option is not working (meganathan_203ac11) - resolved.
+- 0172366: [-Bug PHP] [QA] - Google+ user, third party icon style is broken (meganathan_203ac11) - resolved.
+- 0172367: [-Bug PHP] [QA] - Third party icon tool tip should show and mail icon tool tip should show the mail id and mail icon should place near to m (meganathan_203ac11) - resolved.
+- 0172383: [-Bug PHP] [QA] - Average delivery time is not get updating always showing zero (meganathan_203ac11) - resolved.
+- 0172391: [-Bug CSS] [QA] - Negative rating page unnecessary scroll bar is displaying and page style is broken (meganathan_203ac11) - resolved.
+- 0172562: [-Bug JavaScript] - View page affix not working with pjax loading (meganathan_203ac11) - resolved.
+- 0172563: [+Enhancement] - Sudopay Button payment for job order (meganathan_203ac11) - resolved.
+- 0172564: [-Bug CSS] - payment gateways listing need tab design (meganathan_203ac11) - resolved.
+- 0172163: [-Bug PHP] [QA] - After buying the job flash message is not displaying for credit card payment (meganathan_203ac11) - resolved.
+- 0172318: [-Bug PHP] [QA] - Auto login and activation mail setting is enabled then user select the activation link redirect to error loop (meganathan_203ac11) - resolved.
+- 0172354: [-Bug PHP] [QA] - Multiple search should work properly and once feature search is selected then again amount is selected (meganathan_203ac11) - resolved.
+- 0172556: [-Bug CSS] - - button color need to change (meganathan_203ac11) - resolved.
+- 0172557: [-Bug CSS] - "Report job" -> popup -> add button touch to popup footer (meganathan_203ac11) - resolved.
+- 0172558: [-Bug CSS] - - "full name" -> top space need [opera] (meganathan_203ac11) - resolved.
+- 0172559: [-Bug Logic] - test/live url dynamic changes need (button payment) (meganathan_203ac11) - resolved.
+- 0172560: [-Bug Logic] - - "Order History" -> "All" listing mutual cancel order status as "Reversed". But "Reversed" listing not yet listed (meganathan_203ac11) - resolved.
+- 0172561: [-Bug Logic] - - Current Status -> "Expired". But Accepted?/Completed? as "Yes on Jan 01, 1970". (meganathan_203ac11) - resolved.
+- 0172308: [-Bug PHP] [QA] - Responsive issue (meganathan_203ac11) - resolved.
+- 0172046: [-Bug CSS] [QA][Admin] - Hovering the regional, currency settings legend is not showing for all text (meganathan_203ac11) - resolved.
+- 0172319: [-Bug CSS] [QA][Admin] - In edit sudopay gateway page style is broken and Branding only icon is present not showing anything (meganathan_203ac11) - resolved.
+- 0172033: [-Bug CSS] [QA][Admin] - Hovering time icon color varying and cursor property is missing for icons (meganathan_203ac11) - resolved.
+- 0171952: [-Bug PHP] [QA] - In my request page, expanded and collapsed is not working and select option should highlight (meganathan_203ac11) - resolved.
+- 0171962: [-Bug PHP] [QA] - Deleting primary account then existing account should act as primary account (amala_187at12) - resolved.
+- 0172352: [-Bug PHP] [QA] - Purchase through wallet, not showing confirmation alert information (amala_187at12) - resolved.
+- 0172516: [+Enhancement] Connected payment gateway count missing in admin side user listing page (amala_187at12) - resolved.
+- 0172517: [+Enhancement] Admin have no option to see the each user's connected payment gateways list (amala_187at12) - resolved.
+- 0172518: [+Enhancement] User side payment gateway management page for connect,disconnect missing (amala_187at12) - resolved.
+- 0172379: [-Bug CSS] [QA] - In transaction page, search field alignment is not proper (amala_187at12) - resolved.
+- 0172387: [-Bug PHP] [QA] - Link name should changed as contact seller for buyer viewing the activity and Seller view the activity, then label name a (amala_187at12) - resolved.
+- 0172316: [-Bug PHP] [QA][Admin] - In high performance page, Title name and setting name is wrongly showing and arrange the high performance setting (amala_187at12) - resolved.
+- 0172376: [-Bug PHP] [QA] - Job is not approved by admin, but still pass the url in another user login. still user can able to access the page (amala_187at12) - resolved.
+- 0172047: [-Bug PHP] [QA][Admin] - Once launch mode, plugin is disabled then complete development setting get removed should hide only launch mode se (amala_187at12) - resolved.
+- 0172119: [-Bug PHP] [QA] - Compose message wrong attachment is uploaded, error message is not proper (amala_187at12) - resolved.
+- 0172381: [-Bug PHP] [QA] - Message view through external mail, page style is missing (amala_187at12) - resolved.
+- 0172374: [-Bug PHP] [QA] - Message counts are not get updated(cache issue) (amala_187at12) - resolved.
+- 0172329: [-Bug PHP] [QA][Admin] - In change password page, username is not showing (amala_187at12) - resolved.
+- 0172357: [-Bug PHP] [QA] - Loader style is broken (amala_187at12) - resolved.
+- 0172320: [-Bug CSS] [QA] - Cursor property is missing for action icon (amala_187at12) - resolved.
+- 0172024: [-Bug CSS] [QA] - Tool tip icon should aligned near to linked in avatar (amala_187at12) - resolved.
+- 0172171: [-Bug CSS] [QA] - Aligned the icon center to the layer (amala_187at12) - resolved.
+- 0171977: [-Bug PHP] [QA] - In auto completion own username should not display in compose message (amala_187at12) - resolved.
+- 0171954: [-Bug PHP] [QA] - For own jobs and request, favorite option should not display (amala_187at12) - resolved.
+- 0172520: [-Bug PHP] Buyer has cancel late order going to error page (anandam_023ac09) - resolved.
+- 0172521: [-Bug PHP] Admin Job listing, online job count and painate count differ (anandam_023ac09) - resolved.
+- 0172522: [-Bug CSS] Buyer order listing page alignment problem (anandam_023ac09) - resolved.
+- 0172523: [-Bug CSS] Job Share, other tab should be hightlights in third step (anandam_023ac09) - resolved.
+- 0172524: [-Bug PHP] Admin Dashboard page, error display as affiliate/dispute plugin disabled (anandam_023ac09) - resolved.
+- 0172525: [-Bug PHP] Admin user listing page, some filters are missing (anandam_023ac09) - resolved.
+- 0172526: [-Bug CSS] Seller Job listing page, list/grid active style missing (anandam_023ac09) - resolved.
+- 0172527: [-Bug Coding Standard->Naming Convention] Online/Offline description should be given properly (anandam_023ac09) - resolved.
+- 0172528: [-Bug JavaScript] Ip table record should be properly update (anandam_023ac09) - resolved.
+[79 issues]
+
+FP Ultra Plus - 1.0a45 (Released 2013-12-09) [ View Issues ] 
+=========================================================
+
+Forty fifth alpha version released on Dec 09th, Nov 2013
+
+- 0172344: [-Bug PHP] [QA] - Pin it Job image is not showing (boopathi_026ac09) - resolved.
+- 0172342: [-Bug PHP] [QA] - Job share through linkedin, job image and content is not related to the job (boopathi_026ac09) - resolved.
+- 0172390: [-Bug PHP] [QA] - Affiliate referral path redirect to error page (boopathi_026ac09) - resolved.
+- 0172382: [-Bug PHP] [QA] - Cleared record is present but Cleared amount value is not get updated and wallet also amount not get added (boopathi_026ac09) - resolved.
+- 0172386: [-Bug PHP] [QA] - In button name should be 'stripe' (boopathi_026ac09) - resolved.
+- 0172122: [-Bug PHP] [QA] - In offline job, buyer having no option to sent verification code to the seller (boopathi_026ac09) - resolved.
+- 0172384: [-Bug PHP] [QA] - Job status Cron updated redirect to error page (boopathi_026ac09) - resolved.
+- 0172378: [-Bug PHP] [QA] - Mutual cancel accept redirection is not proper (boopathi_026ac09) - resolved.
+- 0172170: [-Bug PHP] [QA][Admin] - Gateway name is broken (boopathi_026ac09) - resolved.
+- 0172377: [-Bug PHP] [QA] - Review add redirect to error page (boopathi_026ac09) - resolved.
+- 0172371: [-Bug PHP] [QA] - Dispute resolved redirect to error page (boopathi_026ac09) - resolved.
+- 0172370: [-Bug PHP] [QA] - Change password link redirect to error page (boopathi_026ac09) - resolved.
+- 0172369: [-Bug PHP] [QA] - Login with yahoo/gmail, move to yahoo/gamil find friend page, showing error message (boopathi_026ac09) - resolved.
+- 0172343: [-Bug PHP] [QA] - Job share through google+, instead of job name site caption is showing (boopathi_026ac09) - resolved.
+- 0172020: [-Bug PHP] [QA] - Still yahoo, googleplus and openid login is not working (boopathi_026ac09) - resolved.
+- 0172017: [-Bug PHP] [QA] - Facebook login is not working redirect to blank page (boopathi_026ac09) - resolved.
+[16 issues]
+
+FP Ultra Plus - 1.0a44 (Released 2013-12-06) [ View Issues ] 
+=========================================================
+
+Forty fourth alpha version released on Dec 07th, Nov 2013
+
+- 0172321: [-Bug Documentation] [QA] - Post a job page, online and offline help info is not proper (mani_198at13) - resolved.
+- 0172154: [-Bug PHP] [QA][nginx] - For all email template, tags are displaying (mani_198at13) - resolved.
+- 0172349: [-Bug PHP] [QA] - After adding the value also validation is not get removed (mani_198at13) - resolved.
+- 0172168: [-Bug PHP] [QA][Admin] - Send email to user, blank mail is delivered message content is not showing (mani_198at13) - resolved.
+- 0172325: [-Bug PHP] [QA] - Send email to user and blank mail delivered to the user (mani_198at13) - resolved.
+- 0172359: [-Bug CSS] [QA] - Dispute tab old button style is present (boopathi_026ac09) - resolved.
+- 0172159: [-Bug Documentation] [QA] - In affiliate page, tags are displaying (mani_198at13) - resolved.
+- 0172358: [-Bug PHP] Job tag link is not working (boopathi_026ac09) - resolved.
+- 0172328: [-Bug PHP] [QA][Admin] - Deactivate user link redirect to error page (boopathi_026ac09) - resolved.
+- 0172356: [-Bug PHP] [QA] - In request action link, deactivate user, suspend and approve link redirect to error page (boopathi_026ac09) - resolved.
+- 0172336: [-Bug PHP] [QA] - Cannot able to select the other payment gateways (mani_198at13) - resolved.
+- 0172347: [-Bug PHP] [QA] - Pre approval payment is cancelled in paypal but still record status is not get updated in our site (boopathi_026ac09) - resolved.
+- 0172330: [-Bug PHP] [QA][Admin] - User delete redirect to error page (mani_198at13) - resolved.
+- 0172331: [-Bug PHP] [QA][Admin] - More action through active and delete redirect to error page (mani_198at13) - resolved.
+- 0172327: [-Bug PHP] [QA] - Project approve link redirect to error page (boopathi_026ac09) - resolved.
+- 0172332: [-Bug PHP] [QA][Admin] - Job suspended redirect to error page (boopathi_026ac09) - resolved.
+- 0172335: [-Bug PHP] [QA] - Deliver your work redirect to error page (boopathi_026ac09) - resolved.
+- 0172322: [-Bug PHP] [QA] - Site enabled with the live mode, but connect link redirect to sandbox and buy the job redirect to error page (boopathi_026ac09) - resolved.
+- 0172326: [-Bug PHP] [QA] - Job buy redirect to error page (boopathi_026ac09) - resolved.
+[19 issues]
+
+FP Ultra Plus - 1.0a43 (Released 2013-12-04) [ View Issues ] 
+=========================================================
+
+Forty third alpha version released on Dec 06th, Nov 2013
+
+- 0171938: [-Bug PHP] [QA] - Cancel the connect in the paypal connect then information should show properly (boopathi_026ac09) - resolved.
+- 0171945: [-Bug PHP] [QA] - In payment gateway check box is displaying multiple time (meganathan_203ac11) - resolved.
+- 0171968: [-Bug PHP] [QA] - Contact seller through Job view page, sent message with attachment. but attachment is not showing in the received user lo (amala_187at12) - resolved.
+- 0171951: [-Bug PHP] [QA] - Jobs purchased by user and job is in inprogress then edit the job and update the days, redirect to blank page (meganathan_203ac11) - resolved.
+- 0171961: [-Bug PHP] [QA] - Manual payment is not working (meganathan_203ac11) - resolved.
+- 0172120: [-Bug PHP] [QA] - After adding proper attachment also, validation is not get hide, cannot able to sent (amala_187at12) - resolved.
+- 0172160: [-Bug PHP] [QA] - Admin dashboard is displaying without style (meganathan_203ac11) - resolved.
+- 0172162: [-Bug PHP] [QA] - If Seller payout is added as paypal, But buyer try through buy the job through stripe payment is not working (meganathan_203ac11) - resolved.
+- 0171988: [-Bug PHP] [QA] - Mutual cancel redirection is not proper (meganathan_203ac11) - resolved.
+- 0172042: [-Bug PHP] [QA][Admin] - Once jobs plugin is disabled, then menu is not showing and site redirect to blank page (poornadhivya_169at11) - resolved.
+- 0172169: [-Bug PHP] [QA] - Add job in admin redirect to error page in ignix server (mani_198at13) - resolved.
+- 0172121: [-Bug PHP] [QA] - In compose message, attachment is added, then message is not get showing in receiver login (amala_187at12) - resolved.
+- 0172216: [-Bug PHP] [QA] - Negative Feedback option is selected layer is not proper (meganathan_203ac11) - resolved.
+- 0172307: [-Bug PHP] [QA][nginx] - Compose message redirect to error page (mani_198at13) - resolved.
+- 0172305: [-Bug PHP] [QA][nginx] - User registration redirect to error page (mani_198at13) - resolved.
+- 0172310: [-Bug PHP] [QA] - After user logged in redirect to error page (mani_198at13) - resolved.
+- 0172311: [-Bug PHP] [QA] - Job view and request view redirect to error page (mani_198at13) - resolved.
+- 0172012: [-Bug Logic] [QA] - For third party login, security questions is not needed (poornadhivya_169at11) - resolved.
+- 0172155: [-Bug PHP] [QA] - Should show no request available (boopathi_026ac09) - resolved.
+- 0171974: [-Bug CSS] [QA] - Check box and setting icon alignment is not proper (mani_198at13) - resolved.
+- 0172049: [-Bug CSS] [QA] - Flag option and share plugin is disabled then unnecessary legend is displaying in job view page (amala_187at12) - resolved.
+- 0172021: [-Bug PHP] [QA] - Site Js is not working in firefox 21 (amala_187at12) - resolved.
+- 0172274: [+Enhancement] - Site Slogan - not yet used (poornadhivya_169at11) - resolved.
+- 0172275: [+Enhancement] - Element cache duration (poornadhivya_169at11) - resolved.
+- 0172276: [+Enhancement] - Important: Order of settings (poornadhivya_169at11) - resolved.
+- 0172277: [+Enhancement] - naming of Jobs (poornadhivya_169at11) - resolved.
+- 0172278: [-Bug CSS] - openID icon size should be corrected (poornadhivya_169at11) - resolved.
+- 0172279: [-Bug CSS] - Footer - widget place should be corrected (poornadhivya_169at11) - resolved.
+- 0172280: [-Bug PHP] - Location tab - not viewable without login (poornadhivya_169at11) - resolved.
+- 0172043: [-Bug PHP] [QA][Admin] - Once disabled the Jobs plugin and again enable the plugin redirect to this page (poornadhivya_169at11) - resolved.
+[30 issues]
+
+FP Ultra Plus - 1.0a42 (Released 2013-12-04) [ View Issues ] 
+=========================================================
+
+Forty second alpha version released on Dec 04th, Nov 2013
+
+- 0171998: [-Bug PHP] [QA][Admin] - User registration chart filter option is missing (boopathi_026ac09) - resolved.
+- 0163750: [-Bug Documentation] [QA] - Text should be "Authorization" (poornadhivya_169at11) - resolved.
+- 0172128: [-Bug PHP] [QA] - No jobs available then unnecessary bullet is present and background layer is missing as like in request page (boopathi_026ac09) - resolved.
+- 0172158: [-Bug PHP] [QA] - Change password link redirect to error page in Ingnix server (amala_187at12) - resolved.
+- 0172166: [-Bug PHP] [QA] - Change the alternate name of job in admin and click the job link redirect to error page and one again clear the cache (boopathi_026ac09) - resolved.
+- 0172167: [-Bug PHP] [QA] - Alternate name Job is change as gig is not getting updated in all pages (boopathi_026ac09) - resolved.
+- 0172037: [-Bug PHP] [QA][Admin] - In transaction page, unnecessary add link is present redirect to user add and export displaying user list and in t (mani_198at13) - resolved.
+- 0171973: [-Bug PHP] [QA] - Work todo rejected redirection is not proper (meganathan_203ac11) - resolved.
+- 0171969: [-Bug PHP] [QA] - Compose message with attachment redirection is not proper (boopathi_026ac09) - resolved.
+- 0172022: [-Bug CSS] [QA] - Login page design is broken in IE and check box overlap with the label (amal_196at13) - resolved.
+- 0172247: [+Enhancement] http://fpplatformultraplusdev.dev.agriya.com/ [^] - Link/Unlike goes alway login page - page cache issue - should be correct (boopathi_026ac09) - resolved.
+- 0172246: [+Enhancement] Request view page - description need to display (boopathi_026ac09) - resolved.
+- 0172245: [+Enhancement] Job view page - Feedback avatar should three (if no avatar display mean, should display empty images) (boopathi_026ac09) - resolved.
+- 0172205: [-Bug Logic] - payout step not get completed (meganathan_203ac11) - resolved.
+- 0172206: [-Bug Logic] - only wallet is enabled, defaultly "Pay with Wallet" is not came (only after clicking "radio" button, it will come) (meganathan_203ac11) - resolved.
+- 0172207: [-Bug PHP] - I am buy through "Wallet" - "success message came", but - same page present... (meganathan_203ac11) - resolved.
+- 0172208: [-Bug PHP] - In "Select Payment Type", should not came "Wallet" (meganathan_203ac11) - resolved.
+- 0172209: [-Bug PHP] payments/order/46 - "Add amount to Wallet" page (meganathan_203ac11) - resolved.
+- 0172210: [-Bug PHP] - View order history - style should be correct (meganathan_203ac11) - resolved.
+- 0172211: [-Bug Logic] - View Action - dispute message info icon (meganathan_203ac11) - resolved.
+- 0172212: [-Bug CSS] - Request - confirm page (40 min) - - job listing style need like simple (like in tabs) (meganathan_203ac11) - resolved.
+- 0172213: [-Bug Logic] - Payout or receiver accounts connection UI for SudoPay marketplace Order page (meganathan_203ac11) - resolved.
+- 0172214: [-Bug PHP] - - Payment not working with SudoPay (meganathan_203ac11) - resolved.
+- 0172215: [-Bug PHP] - Should be needed "Add" option Post a Job, Post a Request - Not "Add a Request" (meganathan_203ac11) - resolved.
+- 0171940: [-Bug PHP] [QA] - Job bought transactions are not showing in sudopay payment page (meganathan_203ac11) - resolved.
+- 0171937: [-Bug PHP] [QA] - Deliver the work redirect to blank page (meganathan_203ac11) - resolved.
+- 0171946: [-Bug PHP] [QA] - For creditcard payment, not showing the credit card related field. once add field and submit the form showing successfull (meganathan_203ac11) - resolved.
+- 0171976: [-Bug PHP] [QA] - Jobs I like page title is missing (amala_187at12) - resolved.
+- 0171949: [-Bug PHP] [QA] - Confirm request page,related jobs other user jobs edit option is present (amal_196at13) - resolved.
+- 0171960: [-Bug PHP] [QA] - Add amount to wallet page, sudopay payment gateway is not showing unnecessary again wallet option is displaying (meganathan_203ac11) - resolved.
+- 0171959: [-Bug PHP] [QA] - Without entering the fields and submit the form redirect to blank page (meganathan_203ac11) - resolved.
+- 0171958: [-Bug PHP] [QA] - Submit the add amount to wallet redirect to error page (meganathan_203ac11) - resolved.
+- 0172016: [-Bug CSS] [QA] - In IE footer link alignment is broken (amal_196at13) - resolved.
+- 0172019: [-Bug PHP] [QA] - Cache issue is present through out the site (amala_187at12) - resolved.
+- 0172036: [-Bug CSS] [QA][Admin] - In transaction page style is broken (mani_198at13) - resolved.
+- 0172038: [-Bug PHP] [QA][Admin] - Two title is present, but in total three record is displaying (mani_198at13) - resolved.
+- 0172050: [-Bug PHP] [QA] - Job added with video then hovering picture then image should show in black layout and video icon get highlight (mani_198at13) - resolved.
+- 0172202: [-Bug PHP] Request listing page design integration needed (amala_187at12) - resolved.
+- 0172200: [-Bug PHP] Job listing page design issue fixed (amala_187at12) - resolved.
+- 0172193: [-Bug CSS] User profile image page design not proper (amala_187at12) - resolved.
+- 0172194: [-Bug PHP] Facebook share loading for a long time (amala_187at12) - resolved.
+- 0172195: [-Bug PHP] Action to be taken missing in admin side (amala_187at12) - resolved.
+- 0172196: [-Bug PHP] Pre launch private beta mode email cant abe to send (amala_187at12) - resolved.
+- 0172197: [-Bug PHP] Pre launch private beta mode email format wrong (amala_187at12) - resolved.
+- 0172192: [-Bug PHP] Highperfromance not working in all pages (amala_187at12) - resolved.
+- 0172035: [-Bug PHP] [QA][Admin] - View activities, page is broken unnecessary message layer are displaying (boopathi_026ac09) - resolved.
+- 0172059: [-Bug PHP] [QA] - In prelaunch mode subscribe mail is added, redirect to blank page (boopathi_026ac09) - resolved.
+- 0171967: [-Bug PHP] [QA] - Change password submit redirect to error page (amala_187at12) - resolved.
+- 0171964: [-Bug PHP] [QA][Admin] - User add redirect to blank page (amala_187at12) - resolved.
+- 0172057: [-Bug PHP] [QA][Admin] - Add page option is not working (amala_187at12) - resolved.
+- 0172058: [-Bug PHP] [QA] - Site is in maintenance mode redirect to error page (amala_187at12) - resolved.
+- 0172044: [-Bug PHP] [QA][Admin] - Google analytics is not showing (amal_196at13) - resolved.
+- 0172048: [-Bug PHP] [QA][Admin] - Help info is not related to the plugins (amala_187at12) - resolved.
+- 0172052: [-Bug PHP] [QA] - Find friend through twitter not sharing the referral path (boopathi_026ac09) - resolved.
+- 0172054: [-Bug PHP] [QA] - Job Favorite no setting is present then no need to show the setting link (amala_187at12) - resolved.
+- 0172056: [-Bug CSS] [QA][Admin] - Upload theme page button style is varying (amala_187at12) - resolved.
+- 0172060: [-Bug PHP] [QA][Admin] - Job status update cron redirect to blank page (amala_187at12) - resolved.
+- 0172034: [-Bug CSS] [QA][Admin] - Request view page, select layer alignment is not proper (mani_198at13) - resolved.
+- 0172015: [-Bug PHP] [QA] - Affiliate link redirect to error page (amala_187at12) - resolved.
+- 0172040: [-Bug PHP] [QA][Admin] - In admin affiliate link redirect to error page (amala_187at12) - resolved.
+- 0172026: [-Bug PHP] [QA] - In rss feed page, Job image is not showing (amala_187at12) - resolved.
+- 0171995: [-Bug PHP] [QA] - In search result Job tag is present twice (boopathi_026ac09) - resolved.
+[62 issues]
+
+FP Ultra Plus - 1.0a41 (Released 2013-11-27) [ View Issues ] 
+=========================================================
+
+Forty first alpha version released on Nov 27th, Nov 2013
+
+- 0172203: [+Enhancement] Country, cities, states listing needed (poornadhivya_169at11) - resolved.
+- 0172204: [-Bug SQL] missingSetting - menu (poornadhivya_169at11) - resolved.
+- 0172198: [-Bug CSS] jobs/manage - issues (poornadhivya_169at11) - resolved.
+- 0172199: [-Bug CSS] js-lazyload need for all listing page. (poornadhivya_169at11) - resolved.
+- 0172201: [-Bug CSS] after click done in import friends, not getting redirect to dashboard (poornadhivya_169at11) - resolved.
+- 0171947: [-Bug PHP] [QA] - Newly register user unnecessary dummy record are present (boopathi_026ac09) - resolved.
+- 0171948: [-Bug CSS] [QA] - Attachment label get overlap with the field (boopathi_026ac09) - resolved.
+- 0171953: [-Bug CSS] [QA] - In my revenue page, Legend alignment is not proper (boopathi_026ac09) - resolved.
+- 0171957: [-Bug PHP] [QA] - Tags are displaying in the help info (boopathi_026ac09) - resolved.
+- 0171963: [-Bug PHP] [QA][Admin] - In user csv file title information is missing (boopathi_026ac09) - resolved.
+- 0171965: [-Bug CSS] [QA][Admin] - Feature option alignment is not proper in edit profile page (boopathi_026ac09) - resolved.
+- 0171966: [-Bug Documentation] [QA] - Text should be "authorization" (boopathi_026ac09) - resolved.
+- 0171992: [-Bug PHP] [QA][Admin] - Admin delete the job, alert is not proper and delete job also not working in admin panel (boopathi_026ac09) - resolved.
+- 0171999: [-Bug PHP] [QA][Admin] - Search with viewed user is not working in user view (boopathi_026ac09) - resolved.
+- 0172014: [-Bug PHP] [QA] - Third party registration, confirmation page captcha is not present but error message is showing for captcha so cannot abl (boopathi_026ac09) - resolved.
+- 0172027: [-Bug PHP] [QA][Mail] - Forgot password request failed mail content not arranged properly (boopathi_026ac09) - resolved.
+- 0172028: [-Bug CSS] [QA] - Reset password page design is missing (boopathi_026ac09) - resolved.
+- 0172029: [-Bug PHP] [QA] - Reset password security question is not asking (boopathi_026ac09) - resolved.
+- 0172031: [-Bug CSS] [QA] - Request flag Light box content alignment is not proper and unnecessary title is displaying and button style is varying (boopathi_026ac09) - resolved.
+- 0172041: [-Bug CSS] [QA][Admin] - In edit affiliate request, approved field alignment is not proper (boopathi_026ac09) - resolved.
+- 0171994: [-Bug CSS] [QA][Admin] - In admin panel Job order, total amount alignment is not proper (poornadhivya_169at11) - resolved.
+- 0171991: [-Bug JavaScript] language change issue header (mani_198at13) - resolved.
+- 0171990: [-Bug PHP] Gateway List no change in option selected (mani_198at13) - resolved.
+- 0171978: [-Bug PHP] payments/order/8 - design should be correct (meganathan_203ac11) - resolved.
+- 0171979: [-Bug PHP] - Positive Rating: 0 Negative Rating: 1 -> should be with Rating Count/Percentage Settings (meganathan_203ac11) - resolved.
+- 0171980: [-Bug Logic] - "Allow send message" - alignment issue (meganathan_203ac11) - resolved.
+- 0171982: [-Bug PHP] - (Pre-Launch mode) - Powered by image not came (meganathan_203ac11) - resolved.
+- 0171983: [-Bug CSS] - pre launch - footer - copy rights content should be align center (meganathan_203ac11) - resolved.
+- 0171984: [-Bug PHP] - High Performance should be working correctly - request view page (meganathan_203ac11) - resolved.
+- 0171985: [-Bug Logic] - Activities page - Response/Actions block added (meganathan_203ac11) - resolved.
+- 0171986: [-Bug PHP] - add wallet empty submit issue (meganathan_203ac11) - resolved.
+[31 issues]
+
+FP Ultra Plus - 1.0a40 (Released 2013-11-22) [ View Issues ] 
+=========================================================
+
+Fortieth alpha version released on 26th, Nov 2013
+
+- 0171913: [Textual Error] - For map block, need separate legend (poornadhivya_169at11) - resolved.
+- 0171914: [-Bug CSS] - admin menu background issue (poornadhivya_169at11) - resolved.
+- 0171915: [+Enhancement] - Missing Breadcrumbs (poornadhivya_169at11) - resolved.
+- 0171916: [-Bug PHP] issues in job_order_disputes (poornadhivya_169at11) - resolved.
+- 0171917: [-Bug PHP] - "View Tour" not working (poornadhivya_169at11) - resolved.
+- 0171918: [-Bug PHP] - "View Terms" link goes error page (poornadhivya_169at11) - resolved.
+- 0171919: [-Bug PHP] - "Create First job" - should be green button color (poornadhivya_169at11) - resolved.
+- 0171920: [-Bug PHP] - Site PayPal Currency Code -> "Site Currency Code" (poornadhivya_169at11) - resolved.
+- 0171932: [+Enhancement] - remove "featured" in only home page listing (poornadhivya_169at11) - resolved.
+- 0171933: [+Enhancement] - Continue - button style (poornadhivya_169at11) - resolved.
+- 0171934: [+Enhancement] Dashboard and "Edit Profile" link needed in "Sub Menu" (poornadhivya_169at11) - resolved.
+- 0171935: [+Enhancement] - Add link not proper (poornadhivya_169at11) - resolved.
+- 0171921: [-Bug PHP] - Here you can select the CAPTCHA option. Solve Media offers revenue sharing by showing Ads in CAPTCHA display. If you choose So (mani_198at13) - resolved.
+- 0171922: [-Bug CSS] Request second page: Positive Rating: 66% Positive	- design colopsed (mani_198at13) - resolved.
+- 0171923: [-Bug PHP] Optional when job type selected is 'online'. (online enabled condition needed) (also in edit page) (mani_198at13) - resolved.
+- 0171924: [-Bug PHP] - After request add should be redirect to share page if social marketing plugin is enabled mean (mani_198at13) - resolved.
+- 0171925: [-Bug PHP] http://localhost/fpplatformultraplus/page/term-and-conditions [^] - h2, h3 tags should be proper (mani_198at13) - resolved.
+- 0171926: [-Bug CSS] http://localhost/fpplatformultraplus/job/offline-job-testing [^] - affix + user avatar problem (move down) (mani_198at13) - resolved.
+- 0171927: [-Bug PHP] http://localhost/fpplatformultraplus/social_marketings/publish/27/type:facebook/publish_name:Request/publish_action:add [^] (mani_198at13) - resolved.
+- 0171928: [-Bug PHP] "Job Coverage Radius" KM/mile drop down not working (also in map rounding not working seems) (mani_198at13) - resolved.
+- 0171929: [-Bug CSS] - Style missing - No need like tab style "List" and "Add" - Just add Breadcrumb (mani_198at13) - resolved.
+- 0171930: [-Bug PHP] Approved, Disapproved - Should be "Satisfied/Unsatisfied"? (mani_198at13) - resolved.
+- 0171931: [-Bug PHP] Throughout admin side 'No records available' need proper style (mani_198at13) - resolved.
+- 0171897: [-Bug Logic] - Ip shorting not working (meganathan_203ac11) - resolved.
+- 0171898: [-Bug PHP] job_orders - Can't search - required forced for job and user (meganathan_203ac11) - resolved.
+- 0171899: [-Bug PHP] - need to check add plugin enabled/disabled conditions here (meganathan_203ac11) - resolved.
+- 0171900: [-Bug PHP] - Affliate Plugin is enabled, but there is no link in user end (meganathan_203ac11) - resolved.
+- 0171901: [-Bug Logic] - - Message not storing in table and not displayed in "sent message" (meganathan_203ac11) - resolved.
+- 0171902: [-Bug PHP] - In ajax paging, remove unwanted title "Jobs" (But it should be work for other pages) (meganathan_203ac11) - resolved.
+- 0171903: [-Bug Logic] - - First display 5 messages after click refresh button it display wrong. (meganathan_203ac11) - resolved.
+- 0171911: [-Bug Logic] - Truncate - ... missing - js-bootstrap tooltip needed for neccessary displays - Order - Missing to display? - "Flagged" - legen (meganathan_203ac11) - resolved.
+- 0171912: [-Bug PHP] work_orders/add/job:40 - job Not working (can't able to submit) - remove ajax submit (meganathan_203ac11) - resolved.
+- 0171904: [-Bug Logic] - - refresh link is not work properly. (meganathan_203ac11) - resolved.
+- 0171905: [-Bug PHP] - - Filter style should be correct (meganathan_203ac11) - resolved.
+- 0171906: [-Bug PHP] - - Add - style should be correct - - buttom style and all - Activities menu - "Jobs views" should be "Job Views" (meganathan_203ac11) - resolved.
+- 0171907: [-Bug PHP] user_views - Flag missing in IP displays - Search box should be right end (meganathan_203ac11) - resolved.
+- 0171908: [-Bug PHP] - Flag not displays (meganathan_203ac11) - resolved.
+- 0171909: [-Bug PHP] - - *** First time, not mention request type and submit then always request type fields is required once we selected. (meganathan_203ac11) - resolved.
+- 0171910: [-Bug Logic] - - Job Type - Required - aligment shoul be corrected - - $ symbol alignment for - - After submit the request related request pa (meganathan_203ac11) - resolved.
+- 0171874: [+Enhancement] error in request view page (poornadhivya_169at11) - resolved.
+- 0171875: [-Bug Unexpected Output] second submit not working (poornadhivya_169at11) - resolved.
+- 0171876: [-Bug CSS] - Job add form "Job Type" radio buttom alignment issue (poornadhivya_169at11) - resolved.
+- 0171877: [+Enhancement->CSS/Design] - "Bought this" and "Featured" tag design need to integrate (poornadhivya_169at11) - resolved.
+- 0171878: [+Enhancement] remove test mode (poornadhivya_169at11) - resolved.
+[44 issues]
+
+FP Ultra Plus - 1.0a39 (Released 2013-11-20) [ View Issues ] 
+=========================================================
+
+Thirty ninth alpha version released on 22th, Nov, 2013
+
+- 0171825: [-Bug CSS] Affix alignment issue should be correct in Job and Request view page for admin login (mani_198at13) - resolved.
+- 0171824: [+Enhancement] Job, Request and User view page should be ajaxified (mani_198at13) - resolved.
+- 0171823: [+Enhancement] PostgreSQL need to integrate (mani_198at13) - resolved.
+- 0171827: [-Bug CSS] User dropdown issue header (mani_198at13) - resolved.
+- 0171830: [-Bug PHP] Title is now displays as "admin posted give the Stamping-Press Operator contacts - Share" (mani_198at13) - resolved.
+- 0171831: [-Bug PHP] "Buy" option - **No need** light box option (mani_198at13) - resolved.
+- 0171832: [-Bug PHP] Warning (2): implode() [function.implode]: Invalid arguments passed [APP\Plugin\Requests\View\Requests\user_requests.ctp, line 8 (mani_198at13) - resolved.
+- 0171826: [-Bug CSS] - "System Flagged" should be like red color (poornadhivya_169at11) - resolved.
+- 0171828: [+Enhancement] - Remove "Gateway fee" (poornadhivya_169at11) - resolved.
+- 0171829: [+Enhancement] - "Request Views" need to add in Admin "Activities" menu with blugin enable conditions (poornadhivya_169at11) - resolved.
+- 0171811: [Textual Error] other site name text need to changed (poornadhivya_169at11) - resolved.
+- 0171812: [Fatal error] Undefined index error in Insights (poornadhivya_169at11) - resolved.
+- 0171814: [Error] Ajax pagination error (poornadhivya_169at11) - resolved.
+- 0171815: [+Enhancement] - Intro video - info tip in job add/edit page (poornadhivya_169at11) - resolved.
+- 0171817: [+Enhancement] - - Delete from bulk action - goes error page (poornadhivya_169at11) - resolved.
+- 0171793: [-Bug PHP] - Dispute plugin need to work - - Enabling need to handling in user end (meganathan_203ac11) - resolved.
+- 0171794: [-Bug CSS] - Pre-Launch Mode page - design should be correct (meganathan_203ac11) - resolved.
+- 0171795: [-Bug CSS] - - "Enter your email" and "Notify Me" - size should be correct (meganathan_203ac11) - resolved.
+- 0171796: [-Bug CSS] - Stretch Type type seems to not working (meganathan_203ac11) - resolved.
+- 0171797: [-Bug Logic] - Alignment issue on "First name" and right side "Avatar" (meganathan_203ac11) - resolved.
+- 0171798: [-Bug CSS] - notify buyer btn design (meganathan_203ac11) - resolved.
+- 0171800: [-Bug CSS] - - Order Pre-Requirements - design (meganathan_203ac11) - resolved.
+- 0171801: [-Bug CSS] - - Like and follow us to get priority access - private beta - images missing (meganathan_203ac11) - resolved.
+- 0171802: [-Bug Logic] - Should be remove "Host" from displays and table and storing place (meganathan_203ac11) - resolved.
+- 0171803: [-Bug CSS] - Search for should be right end (meganathan_203ac11) - resolved.
+- 0171804: [-Bug Logic] - IP display is missing (meganathan_203ac11) - resolved.
+- 0171805: [-Bug PHP] - We trying to "bulk action" (status changes) goes error page (meganathan_203ac11) - resolved.
+- 0171806: [-Bug CSS] - Commission Amount ($) should be green bg color like mplace site (meganathan_203ac11) - resolved.
+- 0171807: [-Bug Logic] - (Action link) "View Transaction" - link goes error page - should be corrected (meganathan_203ac11) - resolved.
+- 0171808: [-Bug JavaScript] - "Cancel and refund" -> js alert displays with tag (meganathan_203ac11) - resolved.
+- 0171809: [+Enhancement] Remove unwanted settings (poornadhivya_169at11) - resolved.
+- 0171786: [+Enhancement] Share option needed like Jobs view page in Request (mani_198at13) - resolved.
+- 0171787: [-Bug CSS] With logged in, messages, Notifications, and User Menu - alignment problem (mani_198at13) - resolved.
+- 0171788: [-Bug PHP] Terms and Conditions modal window - no need "container" for modal windows (herizontal scroll bar came) (mani_198at13) - resolved.
+- 0171789: [-Bug CSS] Login, Register and Searsh box - alignment (mani_198at13) - resolved.
+- 0171790: [-Bug CSS] Send button style should be correct in contact (mani_198at13) - resolved.
+- 0171791: [-Bug PHP] "Enable Captcha when Forgot Password" settings not handled (mani_198at13) - resolved.
+- 0171792: [-Bug SQL] Noreply Email address -> should be empty in sql files (mani_198at13) - resolved.
+[38 issues]
+
+FP Ultra Plus - 1.0a38 (Released 2013-11-20) [ View Issues ] 
+=========================================================
+
+Thirty eighth alpha version released on 20th, Nov, 2013
+
+- 0171731: [-Bug PHP] - Settings (poornadhivya_169at11) - resolved.
+- 0171727: [-Bug PHP] - Request add with next step - pagination issue... (poornadhivya_169at11) - resolved.
+- 0171728: [-Bug CSS] - Request add, second page - Post buttom should be like first page's "Continue" buttom style (poornadhivya_169at11) - resolved.
+- 0171729: [-Bug Logic] - - $5, $10, $15 and $20 - Hard coded? should be come from "Job Price" settings (poornadhivya_169at11) - resolved.
+- 0171730: [-Bug PHP] Settings page needs to be refined (poornadhivya_169at11) - resolved.
+- 0171732: [-Bug PHP] Pligins page errors (poornadhivya_169at11) - resolved.
+- 0171733: [-Bug PHP] email_templates page issues (poornadhivya_169at11) - resolved.
+- 0171734: [-Bug PHP] admin Usercashwithdrawals page has undefined index (poornadhivya_169at11) - resolved.
+- 0171726: [-Bug PHP] "60% Positive" -> should be display with "Rating type" (%/count) i (mani_198at13) - resolved.
+- 0171725: [-Bug CSS] Share alignment View Page (mani_198at13) - resolved.
+- 0171724: [-Bug PHP] When try to view "Video" - script error araised (mani_198at13) - resolved.
+- 0171722: [-Bug PHP] When giving alternate name for job and request, more pages goes to error page - should be correct (boopathi_026ac09) - resolved.
+- 0171723: [-Bug PHP] When giving alternate name for job and request urls should be like alternate names (boopathi_026ac09) - resolved.
+- 0171704: [+Enhancement] - "Cash Withdrawals" - SudoPay need to integrate (meganathan_203ac11) - resolved.
+- 0171705: [-Bug Logic] - Sub menu "Money Transfer Accounts" goes error page (meganathan_203ac11) - resolved.
+- 0171706: [-Bug PHP] - Sub menu "Cash Withdrawals" goes error page http://localhost/fpplatformultraplus/user_cash_withdrawals [^] (meganathan_203ac11) - resolved.
+- 0171707: [+Enhancement] - We can just have an admin setting to enable/disable online and offline features. - - need to handling in request and job add p (meganathan_203ac11) - resolved.
+- 0171708: [+Enhancement] - withdrawal plugin added (meganathan_203ac11) - resolved.
+[18 issues]
+
+FP Ultra Plus - 1.0a37 (Released 2013-11-18) [ View Issues ] 
+=========================================================
+
+Thirty seventh alpha version released on 18th, Nov, 2013
+
+- 0171629: [-Bug PHP] Dashboard charts should route to insights chart (amal_196at13) - resolved.
+- 0171630: [-Bug PHP] Dashboard design collapsed while filtering (amal_196at13) - resolved.
+- 0171631: [-Bug PHP] Filtering(Last 4 weeks) not working proper (amal_196at13) - resolved.
+- 0171632: [-Bug PHP] slovemedia captcha not working (amal_196at13) - resolved.
+- 0171633: [-Bug PHP] Insights page keep in loading status(shadow) (amal_196at13) - resolved.
+- 0171634: [-Bug PHP] Some charts missing in Insights (amal_196at13) - resolved.
+- 0171635: [-Bug PHP] Filtering should load in same page. Now its move to next page and other charts disappeared (amal_196at13) - resolved.
+- 0171636: [-Bug PHP] could not add job orders page, continuesouly loading (amal_196at13) - resolved.
+- 0171637: [-Bug PHP] jobs view buy link is coming for his own job (amal_196at13) - resolved.
+- 0171638: [-Bug PHP] Uploading profile image leads to error (amal_196at13) - resolved.
+- 0171639: [-Bug PHP] In add page, Manual rtanslate leads to error page (amal_196at13) - resolved.
+- 0171640: [-Bug PHP] Google translate not working (amal_196at13) - resolved.
+- 0171641: [-Bug PHP] Unwanted image & info icon design collapsed in Change profile image page (amal_196at13) - resolved.
+- 0171642: [-Bug PHP] profile image change using social settings is not working (amal_196at13) - resolved.
+- 0171643: [-Bug PHP] No social connections working except linkedin (amal_196at13) - resolved.
+- 0171644: [-Bug PHP] While connectin linkedin showing success message. But button showing connect with linkedin (amal_196at13) - resolved.
+- 0171645: [-Bug PHP] Admin panel in job and requets view page (amal_196at13) - resolved.
+- 0171646: [-Bug PHP] add files is not working (amal_196at13) - resolved.
+- 0171647: [-Bug PHP] tags are not added in job add form (amal_196at13) - resolved.
+- 0171648: [-Bug PHP] Jobs add form not showing validation errors (amal_196at13) - resolved.
+- 0171649: [-Bug PHP] high performance not working properly (amal_196at13) - resolved.
+- 0171618: [-Bug PHP] First display 5 messages after click refresh button it display wrong. (arunraj_201at13) - resolved.
+- 0171619: [-Bug PHP] $ symbol alignment in request add page. (arunraj_201at13) - resolved.
+- 0171620: [-Bug JavaScript] Flash message need to hide when a page is reloaded(pjax) (arunraj_201at13) - resolved.
+- 0171621: [-Bug PHP] When a click prev link in pagination, page is reloaded. (arunraj_201at13) - resolved.
+- 0171622: [+Enhancement] Need to implement starred option in ajax. (arunraj_201at13) - resolved.
+- 0171623: [-Bug PHP] refresh link is not work properly in sentmail page (arunraj_201at13) - resolved.
+- 0171624: [-Bug PHP] Message count is differ when a click refresh button. (arunraj_201at13) - resolved.
+- 0171625: [-Bug CSS] featured and flagged label need space in job listing (arunraj_201at13) - resolved.
+- 0171626: [+Enhancement] 'purge' - delete jobs from site need icon (arunraj_201at13) - resolved.
+- 0171627: [+Enhancement] title tooltip missing in job listing page. (arunraj_201at13) - resolved.
+- 0171628: [+Enhancement] Sudopay integartion (arunraj_201at13) - resolved.
+- 0171565: [+Enhancement] - apple, meta paths (meganathan_203ac11) - resolved.
+- 0171566: [-Bug CSS] - - Google+ icon color (meganathan_203ac11) - resolved.
+- 0171568: [-Bug CSS] - - Subject, Job : htruncate and tooltip (meganathan_203ac11) - resolved.
+- 0171569: [-Bug PHP] - Share should be like other products - If no feedback No need "More" link (meganathan_203ac11) - resolved.
+- 0171570: [-Bug Logic] Favorite Requests (0) - title (meganathan_203ac11) - resolved.
+- 0171571: [-Bug Logic] - Wallet plugin is disabled. But its available in payment gateways (meganathan_203ac11) - resolved.
+- 0171572: [+Enhancement] - Favoriting has be done through animated heartbeat icon. (meganathan_203ac11) - resolved.
+- 0171573: [-Bug PHP] - while clicking message subject , redirects to error page (meganathan_203ac11) - resolved.
+- 0171574: [-Bug PHP] - Order History leads to error page (meganathan_203ac11) - resolved.
+- 0171575: [-Bug PHP] - - Clicking "Activities" link- - Invalid request - Error (meganathan_203ac11) - resolved.
+- 0171576: [-Bug Logic] - Welcome to FPPlatformUltraPlus mail content is empty (meganathan_203ac11) - resolved.
+- 0171577: [-Bug PHP] - Forgot Password sending blank mail(Sub: Forgot password request failed) (meganathan_203ac11) - resolved.
+- 0171578: [-Bug CSS] - Menu should be in single line (meganathan_203ac11) - resolved.
+- 0171580: [-Bug Logic] - Remove correct share/link and settings (meganathan_203ac11) - resolved.
+- 0171581: [-Bug CSS] settings - - need proper design (meganathan_203ac11) - resolved.
+- 0171582: [-Bug PHP] - Send mail to users not working (meganathan_203ac11) - resolved.
+- 0171583: [-Bug PHP] - - Auto complete not working troughout the site (meganathan_203ac11) - resolved.
+- 0171584: [-Bug PHP] - User Messages -- Search using job not working (meganathan_203ac11) - resolved.
+- 0171585: [-Bug PHP] transactions - - Need to check autocomplete. (meganathan_203ac11) - resolved.
+- 0171586: [-Bug Logic] messages - - Need to check autocomplete for filters(from,to and job). (meganathan_203ac11) - resolved.
+- 0171587: [-Bug PHP] - captcha not working on Forgot password(PJAX) (meganathan_203ac11) - resolved.
+- 0171588: [-Bug PHP] - - Add Amount to Wallet, Cash Withdrawal, Money Transfer Accounts links are missing if wallet plugin is enabled. (meganathan_203ac11) - resolved.
+- 0171589: [-Bug Logic] - Header: Notification link dont force "Invite" (meganathan_203ac11) - resolved.
+- 0171590: [-Bug PHP] - - More link is redirected to error page. (meganathan_203ac11) - resolved.
+- 0171591: [-Bug PHP] messages/activities/type:list - Invalid request (meganathan_203ac11) - resolved.
+- 0171592: [-Bug CSS] - in flash message, the close icon need to align correctly (meganathan_203ac11) - resolved.
+- 0171593: [-Bug CSS] - (after login) - Header aligment should be corrected (meganathan_203ac11) - resolved.
+- 0171594: [-Bug Logic] - If no feedback mean title should be length increase (meganathan_203ac11) - resolved.
+- 0171595: [-Bug CSS] - Follow Us alignment should be corrected (meganathan_203ac11) - resolved.
+- 0171596: [-Bug CSS] - - Feature - checkbox align (meganathan_203ac11) - resolved.
+- 0171597: [-Bug CSS] (open with new tab) - "No News Feed available" -> should be full width (meganathan_203ac11) - resolved.
+- 0171598: [-Bug Logic] - Remove correct share/link and settings (meganathan_203ac11) - resolved.
+- 0171599: [-Bug PHP] - while clicking message subject , redirects to error page (meganathan_203ac11) - resolved.
+- 0171513: [-Bug PHP] -Users -- More Action dropdown leads to homepage with wrong headers(with login & Register menu. But site is in login status) (meganathan_203ac11) - resolved.
+- 0171514: [-Bug CSS] - Users add -- Design not proper -- User type has no option (meganathan_203ac11) - resolved.
+- 0171515: [-Bug Logic] -- Unwanted icons appeared while diapprove the jobs(jobs-unwanted icons.png) (meganathan_203ac11) - resolved.
+- 0171516: [-Bug CSS] -- Actions design collapsed for diaspproved jobs(design-collapsed.png) (meganathan_203ac11) - resolved.
+- 0171517: [-Bug PHP] -- Confirmation dialog on any action not working properly(Automatically take it as approved even we didn't do any action(yes/No) (meganathan_203ac11) - resolved.
+- 0171518: [-Bug PHP] -- purge leads to empty page (meganathan_203ac11) - resolved.
+- 0171519: [+Enhancement] - Admin has no option to view job orders - Admin has no option to view Disputes (meganathan_203ac11) - resolved.
+- 0171521: [-Bug PHP] -- Confirmation dialog on any action not working properly(Automatically take it as approved even we didn't do any action(yes/No) (meganathan_203ac11) - resolved.
+- 0171522: [-Bug Logic] - In Add Request, Add button should displayed after map (meganathan_203ac11) - resolved.
+- 0171523: [-Bug PHP] - User Logins -- Delete using More actions leads to error -- confirmation message not proper (meganathan_203ac11) - resolved.
+- 0171524: [-Bug PHP] - User Views -- confirmation message not proper -- Delete using More actions leads to error (meganathan_203ac11) - resolved.
+- 0171525: [-Bug PHP] - Job Favorites -- confirmation message not proper -- Confirmation dialog appeared 2 times -- Delete using More actions leads to (meganathan_203ac11) - resolved.
+- 0171526: [-Bug PHP] - Job Flags -- confirmation message not proper -- Confirmation dialog appeared 2 times -- Delete using More actions leads to err (meganathan_203ac11) - resolved.
+- 0171527: [-Bug PHP] - Job feedbacks -- confirmation message not proper -- Delete using More actions leads to error -- Jobs & Feedback allignment sho (meganathan_203ac11) - resolved.
+- 0171528: [-Bug PHP] -- Edit feedback should return to feedbacks index page or It should have the option to return to index page(breadcrumb) (meganathan_203ac11) - resolved.
+- 0171529: [-Bug PHP] - Job Views -- cause to js error -- confirmation message not proper -- Confirmation dialog appeared 2 times -- Delete using More (meganathan_203ac11) - resolved.
+- 0171530: [-Bug PHP] - User Messages -- Confirmation dialog on any action not working properly(Automatically take it as approved even we didn't do an (meganathan_203ac11) - resolved.
+- 0171531: [-Bug Logic] - Plugins -- Sudopay has no icon (meganathan_203ac11) - resolved.
+- 0171532: [-Bug PHP] - Affilitaes leads to error (meganathan_203ac11) - resolved.
+- 0171533: [-Bug PHP] - Affilite requests -- Confirmation dialog on any action not working properly(Automatically take it as approved even we didn't d (meganathan_203ac11) - resolved.
+- 0171534: [-Bug PHP] - Nodes -- No confirmation on delete -- Publish & Unpublish in more actions not working properly (meganathan_203ac11) - resolved.
+- 0171535: [-Bug PHP] - Content Types -- confirmation message not proper -- Confirmation dialog appeared 2 times -- Delete using More actions leads to (meganathan_203ac11) - resolved.
+- 0171536: [-Bug Logic] - Taxonomies -- No confirmation on delete (meganathan_203ac11) - resolved.
+- 0171537: [-Bug PHP] - Job Catergories -- confirmation message not proper -- Confirmation dialog appeared 2 times -- Delete using More actions leads (meganathan_203ac11) - resolved.
+- 0171539: [-Bug PHP] - Job flag Categories -- confirmation message not proper -- Confirmation dialog appeared 2 times -- Delete using More actions le (meganathan_203ac11) - resolved.
+- 0171540: [-Bug PHP] - Request flag categories -- confirmation message not proper -- Confirmation dialog appeared 2 times -- Delete using More action (meganathan_203ac11) - resolved.
+- 0171541: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/email_templates [^] - - design update button. (meganathan_203ac11) - resolved.
+- 0171542: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/job_categories/edit/1/838e6528395c8eeea10d6037d21bbf87 [^] - - update not worki (meganathan_203ac11) - resolved.
+- 0171543: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/jobs/edit/26/e9e9ea989dab95cc9d027f7307f4d79e [^] - The request has been black- (meganathan_203ac11) - resolved.
+- 0171544: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/insights/index/#registration [^] - space gets differ and arrow not change (meganathan_203ac11) - resolved.
+- 0171545: [-Bug PHP] - Menus -- In add link, link to a node not working properly(http://fpplatformultraplusdev.dev.agriya.com/admin/links/add/4 [^]) -- M (meganathan_203ac11) - resolved.
+- 0171546: [-Bug CSS] - Security questions -- Add & Edit page submit block design not proper -- Checkbox not displayed (meganathan_203ac11) - resolved.
+- 0171547: [-Bug PHP] - IPs -- Flag near IP -- No confirmation on delete -- City, State, Country latitude & Logitude fields are blank (meganathan_203ac11) - resolved.
+- 0171548: [-Bug PHP] - button for request add/job add (meganathan_203ac11) - resolved.
+- 0171549: [-Bug Logic] - - No requests available - hover style should be corrected (meganathan_203ac11) - resolved.
+- 0171550: [-Bug Logic] - - "Contact Seller" should be open in modal window (meganathan_203ac11) - resolved.
+- 0171551: [-Bug Documentation] - Sign Up should be -> Register (meganathan_203ac11) - resolved.
+- 0171552: [-Bug CSS] - - Width is greater than normal site width. need to reduce the width. (meganathan_203ac11) - resolved.
+- 0171553: [-Bug Logic] - All delete actions - Alert confimation should be needed (specially admin end) (meganathan_203ac11) - resolved.
+- 0171554: [-Bug Logic] - select all, none, active not working properly - check all pages (meganathan_203ac11) - resolved.
+- 0171555: [-Bug Logic] admin - 'product manual' url not proper (meganathan_203ac11) - resolved.
+- 0171556: [-Bug PHP] - - All filter is redirect to jobs listing page. - - Need htruncate and tooltip for request. - - Need corresponding label color (meganathan_203ac11) - resolved.
+- 0171557: [-Bug PHP] - pending filter need proper style (meganathan_203ac11) - resolved.
+- 0171558: [+Enhancement] - View page - shareurl (meganathan_203ac11) - resolved.
+- 0171559: [+Enhancement] How to handle Multiple Job Images (ref: burrow) - slider (meganathan_203ac11) - resolved.
+- 0171560: [+Enhancement] - View page - Tab (meganathan_203ac11) - resolved.
+- 0171561: [+Enhancement] [fpplatformultraplus] need ace like video on view page (meganathan_203ac11) - resolved.
+- 0171562: [-Bug PHP] - Affiliate common settings has no settings (meganathan_203ac11) - resolved.
+- 0171563: [-Bug Logic] - Site builder, current theme has no sample image (meganathan_203ac11) - resolved.
+- 0171564: [-Bug PHP] - Broken link on powered by icon (meganathan_203ac11) - resolved.
+[115 issues]
+
+FP Ultra Plus - 1.0a36 (Released 2013-11-09) [ View Issues ] 
+=========================================================
+
+Thirty sixth alpha version released on 09th, Nov, 2013
+
+- 0171361: [-Bug PHP] Follow Us links not proper in footer (amal_196at13) - resolved.
+- 0171362: [-Bug PHP] "Selling" and "Buying" link should be interchanged (amal_196at13) - resolved.
+- 0171363: [-Bug PHP] Social Icons not proper (amal_196at13) - resolved.
+- 0171364: [-Bug CSS] When clicking "Search" box - header alignment is getting colpsed (amal_196at13) - resolved.
+- 0171365: [-Bug CSS] Header - Need space btw useravatar and username (amal_196at13) - resolved.
+- 0171366: [-Bug PHP] Header - links should be "Notifications", "Messages" and then "User menu" (amal_196at13) - resolved.
+- 0171367: [-Bug PHP] Message and Notification count should be like other products (amal_196at13) - resolved.
+- 0171368: [-Bug PHP] Search box moving not smooth (amal_196at13) - resolved.
+- 0171369: [-Bug PHP] More Job -> More Jobs, Start Job -> Post a Job (amal_196at13) - resolved.
+- 0171370: [-Bug PHP] Routing should be corrected (amal_196at13) - resolved.
+- 0171371: [-Bug PHP] Pagination not proper (amal_196at13) - resolved.
+- 0171372: [-Bug PHP] "No News Feed available" - design not proper (amal_196at13) - resolved.
+- 0171373: [-Bug PHP] In "Buying" tab, it should be "Total Earned" -> "Total Spent" (amal_196at13) - resolved.
+- 0171374: [-Bug PHP] No need 'htrucate' for price (amal_196at13) - resolved.
+- 0171375: [-Bug PHP] In "Selling" tab, "Possitive Feedbacks", "Negative Feedbacks" need in thumb tooltip (amal_196at13) - resolved.
+- 0171376: [-Bug PHP] All "Menu" link not Highlighted in user menu (amal_196at13) - resolved.
+- 0171397: [-Bug PHP] Validation message under textbox should be align correctly (amal_196at13) - resolved.
+- 0171398: [-Bug PHP] "Contact Seller" - link not properly loading in modal window (amal_196at13) - resolved.
+- 0171399: [-Bug PHP] No need "Buy" and "Contact Seller" for owner - "Buy" -> "Edit" (amal_196at13) - resolved.
+- 0171400: [-Bug PHP] Amount display design should be like design (amal_196at13) - resolved.
+- 0171401: [-Bug PHP] Job listing design should be correct (amal_196at13) - resolved.
+- 0171378: [-Bug Logic] - Footer link missing (meganathan_203ac11) - resolved.
+- 0171379: [-Bug CSS] - when Scroll down, title should be single line like other products (meganathan_203ac11) - resolved.
+- 0171380: [-Bug JavaScript] - JS validation not working (Throughout the site) (meganathan_203ac11) - resolved.
+- 0171381: [-Bug CSS] - Or alignment problem in "google+" and "OpenID" (meganathan_203ac11) - resolved.
+- 0171382: [+Enhancement] - "Terms & Conditions" should be modal window (meganathan_203ac11) - resolved.
+- 0171383: [-Bug CSS] - register form should be align center (meganathan_203ac11) - resolved.
+- 0171384: [-Bug PHP] - - Should be present current page and filled details should be exists (meganathan_203ac11) - resolved.
+- 0171385: [-Bug PHP] - When clicking pagination link - page title is missing (meganathan_203ac11) - resolved.
+- 0171386: [-Bug PHP] - Ajax paging not working after move next page (meganathan_203ac11) - resolved.
+- 0171387: [-Bug CSS] - Location tab - Map alignment should be correct (meganathan_203ac11) - resolved.
+- 0171388: [-Bug JavaScript] - Select: All	 None	 Suspended	 Active -> links not working in second time (meganathan_203ac11) - resolved.
+- 0171389: [-Bug PHP] - when mark as suspend a jobs goes waring page (meganathan_203ac11) - resolved.
+- 0171390: [-Bug PHP] - - Notice (8): Undefined index: r [APP\Plugin\Jobs\Controller\JobsController.php, line 2152] (meganathan_203ac11) - resolved.
+- 0171391: [-Bug CSS] - "Order No" is single and two digit - alignment is changed (meganathan_203ac11) - resolved.
+- 0171392: [-Bug CSS] - No Orders available - style should be corrected (meganathan_203ac11) - resolved.
+- 0171393: [-Bug PHP] - Notice (8): Undefined variable: request_id (meganathan_203ac11) - resolved.
+- 0171394: [-Bug PHP] - Warning (2): implode() [function.implode] (meganathan_203ac11) - resolved.
+- 0171395: [-Bug CSS] - "Status" should be with legend colors (meganathan_203ac11) - resolved.
+- 0171396: [-Bug CSS] - You must agree to the terms and conditions error message (meganathan_203ac11) - resolved.
+[40 issues]
+
+FP Ultra Plus - 1.0a35 (Released 2013-11-06) [ View Issues ] 
+=========================================================
+
+Thirty fifth alpha version released on 07th, Nov, 2013
+
+- 0171329: [-Bug PHP] When click more option, it should be point out to the corresponding tab. but now showing as like separate section (meganathan_203ac11) - resolved.
+- 0171328: [-Bug PHP] when click buy link in view page, the modal box alignment is not proper and when i close the model box, it is redirected to that (meganathan_203ac11) - resolved.
+- 0171327: [-Bug PHP] when validation occurs, the form is not retain in modal box (meganathan_203ac11) - resolved.
+- 0171326: [-Bug PHP] when click Seller CP, getting "Invalid Contect" after fresh register (meganathan_203ac11) - resolved.
+- 0171325: [-Bug PHP] Remove angellist register from register page (meganathan_203ac11) - resolved.
+- 0171324: [-Bug PHP] in job listing pages, buy now link is shown with amount. can remove it. (meganathan_203ac11) - resolved.
+- 0171323: [-Bug PHP] Title is truncated but need to show in tool tip in job view page (meganathan_203ac11) - resolved.
+- 0171322: [-Bug PHP] follow us on section missing (meganathan_077at09) - resolved.
+- 0171321: [-Bug CSS] active link is not enabling in top links without login (meganathan_203ac11) - resolved.
+- 0171320: [-Bug CSS] Signup - Change text as "Register" (meganathan_203ac11) - resolved.
+- 0171319: [-Bug CSS] in flash message, the close icon is not visible (meganathan_203ac11) - resolved.
+- 0171318: [-Bug CSS] contact seller and buy now link is merging (meganathan_203ac11) - resolved.
+- 0171317: [-Bug CSS] success rate graph is shown with white background. remove that. (meganathan_203ac11) - resolved.
+- 0171311: [-Bug PHP] Division by zero (amal_196at13) - resolved.
+- 0171312: [-Bug PHP] error in revisions in register (amal_196at13) - resolved.
+- 0171313: [-Bug PHP] - when no news feed available, no need for "View All" link (amal_196at13) - resolved.
+- 0171314: [-Bug PHP] in buy page, when upload image, getting error (amal_196at13) - resolved.
+- 0171315: [-Bug PHP] search is searching only the job and not requests. Need both as like in live site (amal_196at13) - resolved.
+- 0171316: [-Bug PHP] Remove paypal related codes (amal_196at13) - resolved.
+[19 issues]
+
+FP Ultra Plus - 1.0a34 (Released 2013-10-29) [ View Issues ] 
+=========================================================
+
+Thirty fourth alpha version released on 06th, Nov, 2013
+
+- 0171191: [-Bug XHTML] Heading style missing in profile view page. (arunraj_201at13) - resolved.
+- 0171192: [-Bug PHP] user_avatar_source_id undefined error in profile edit page and change image page (arunraj_201at13) - resolved.
+- 0171193: [-Bug JavaScript] Datepicker missing in whole site (arunraj_201at13) - resolved.
+- 0171196: [-Bug PHP] 2 times showing No Orders available in my work page. (arunraj_201at13) - resolved.
+- 0171198: [+Enhancement] Colorbox to Bootstrap modal changes (arunraj_201at13) - resolved.
+- 0171200: [-Bug PHP] Count showing wrong in starred message (arunraj_201at13) - resolved.
+- 0171202: [+Enhancement] Remove unwanted scripts (arunraj_201at13) - resolved.
+- 0171203: [-Bug JavaScript] Inbox unread message count reduce (arunraj_201at13) - resolved.
+- 0171204: [-Bug PHP] Add favorite leeds to error page (arunraj_201at13) - resolved.
+- 0171205: [-Bug JavaScript] Admin side chart are not working (arunraj_201at13) - resolved.
+- 0171194: [+Feature Additional] Implement Launch modes (amal_196at13) - resolved.
+- 0171197: [-Bug PHP] Add request not working (amal_196at13) - resolved.
+- 0171199: [-Bug PHP] Admin side search not working (amal_196at13) - resolved.
+- 0171176: [-Bug PHP] Moreactions and select links - not working properly in overall pages admin side (amala_187at12) - resolved.
+- 0171177: [+Enhancement] High performance plugin yet not integration in job view, request view, listing pages (amala_187at12) - resolved.
+- 0171178: [-Bug PHP] Social marketing publish design and functionality missing (amala_187at12) - resolved.
+- 0171179: [-Bug PHP] My work page action not working properly (amala_187at12) - resolved.
+- 0171181: [-Bug PHP] In my work page under dispute text make design collapse (amala_187at12) - resolved.
+- 0171183: [-Bug PHP] Suspend, activate request redirect to home page (amala_187at12) - resolved.
+- 0171184: [-Bug PHP] My order page action button not working properly (amala_187at12) - resolved.
+- 0171185: [-Bug PHP] Affiliate Requests in admin side edit leads to error page (amala_187at12) - resolved.
+- 0171186: [-Bug PHP] Live tour in admin side not working (amala_187at12) - resolved.
+- 0171188: [-Bug PHP] Setting edit page in admin side design not proper. Heading setting category name showing to time with description (amala_187at12) - resolved.
+- 0171175: [-Bug PHP] Highperformance settings missing in admin side (amala_187at12) - resolved.
+[24 issues]
+
+FP Ultra Plus - 1.0a33 (Released 2013-10-16) [ View Issues ] 
+=========================================================
+
+Thirty third alpha version released on 29th, Oct, 2013
+
+- 0171126: [+Enhancement] Search not working in home page (amala_187at12) - resolved.
+- 0171131: [+Enhancement] User notification page missing (amala_187at12) - resolved.
+- 0171132: [+Enhancement] Message page new design yet not integrated (amala_187at12) - resolved.
+- 0171130: [-Bug CSS] Request listing page overall design issues (amala_187at12) - resolved.
+- 0171129: [-Bug CSS] Job view page design issues (amala_187at12) - resolved.
+- 0171128: [-Bug CSS] User dashboard design issues (amala_187at12) - resolved.
+- 0171127: [-Bug CSS] Login and register page design integration and issues (amala_187at12) - resolved.
+- 0171125: [+Enhancement] User side header menu list changed after login and before login (amala_187at12) - resolved.
+- 0171133: [-Bug CSS] User view page design issue fixed (amala_187at12) - resolved.
+- 0171095: [-Bug PHP] success and error message not showing (arunraj_201at13) - resolved.
+- 0171096: [-Bug PHP] contact buyer leads to error page (arunraj_201at13) - resolved.
+- 0171097: [+Enhancement->CSS/Design] need proper alignment and design integration in add request page (arunraj_201at13) - resolved.
+- 0171098: [+Enhancement->CSS/Design] proper design for listing and filter in Job manage page (arunraj_201at13) - resolved.
+- 0171099: [-Bug PHP] change image is not working in user edit page (arunraj_201at13) - resolved.
+- 0171100: [-Bug PHP] image not showing in profile page (arunraj_201at13) - resolved.
+- 0171101: [+Enhancement] Design integration in notification pages (arunraj_201at13) - resolved.
+- 0171102: [-Bug JavaScript] affix not working in job view page (arunraj_201at13) - resolved.
+- 0171103: [-Bug PHP] No feedbacks available missing for empty listing in job view page (arunraj_201at13) - resolved.
+- 0171105: [-Bug PHP] buy now Functionality not correct (arunraj_201at13) - resolved.
+- 0171108: [Designing] Filter design missing in job order listing (arunraj_201at13) - resolved.
+- 0171110: [-Bug JavaScript] like, unlike functionalty missing for jobs listing (arunraj_201at13) - resolved.
+- 0171112: [-Bug PHP] download leads to error page (arunraj_201at13) - resolved.
+- 0171123: [-Bug JavaScript] easytab not working in message activites pages (arunraj_201at13) - resolved.
+- 0171124: [+Enhancement] Pjax integration and JS plugin upgrade (arunraj_201at13) - resolved.
+- 0171104: [Designing] admin dashboard - design Integration (amal_196at13) - resolved.
+- 0171106: [Designing] - Admin menus (amal_196at13) - resolved.
+- 0171107: [Designing] - throughout site ip need flag (amal_196at13) - resolved.
+- 0171109: [Designing] Admin index design integration (amal_196at13) - resolved.
+- 0171111: [-Bug PHP] empty page showing (amal_196at13) - resolved.
+- 0171113: [-Bug PHP] Admin request add page errors (amal_196at13) - resolved.
+- 0171114: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/user_cash_withdrawals/index/filter_id:1 [^] - filter only displaying (amal_196at13) - resolved.
+- 0171115: [-Bug PHP] - http://localhost/fpplatformultraplusnew/users/forgot_password [^] - not working (amal_196at13) - resolved.
+- 0171116: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/job_flags [^] - table title not proper(all admin index) (amal_196at13) - resolved.
+- 0171117: [-Bug PHP] - http://localhost/fpplatformultraplusnew/users/forgot_password [^] - not working (amal_196at13) - resolved.
+- 0171118: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/jobs/update_status/39/359c3773fea70495a3e97d289be8d463/flag:suspend [^] - suspe (amal_196at13) - resolved.
+- 0171119: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/user_views [^] - An Internal Error Has Occurred. (amal_196at13) - resolved.
+- 0171120: [-Bug PHP] http://fpplatformultraplusdev.dev.agriya.com/admin/messages/update_status/394/ea606d54611add1df42f6e4b2af10a9a/flag:deactivate [^] - (amal_196at13) - resolved.
+- 0171121: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/admin/affiliate_types/edit/942f80b35b57270b5f86d7b450359901 [^] - active coloumn empt (amal_196at13) - resolved.
+- 0171122: [-Bug PHP] - affliate common setting need proper url -http://fpplatformultraplusdev.dev.agriya.com/admin/settings/edit/21/f9de480c682641ef2 [^] (amal_196at13) - resolved.
+[39 issues]
+
+FP Ultra Plus - 1.0a32 (Released 2013-08-21) [ View Issues ] 
+=========================================================
+
+Thirty second alpha version released on 16th, Oct, 2013
+
+- 0170902: [+Enhancement->CSS/Design] - new design for User and admin side layouts (meganathan_203ac11) - resolved.
+- 0170903: [+Enhancement->CSS/Design] - Home page new design integration (meganathan_203ac11) - resolved.
+- 0170904: [+Enhancement->CSS/Design] -new design integration for user side job-listing (meganathan_203ac11) - resolved.
+- 0170905: [+Enhancement->CSS/Design] -new design integration for user side - post-job, edit job etc (meganathan_203ac11) - resolved.
+- 0170906: [+Enhancement->CSS/Design] -new design integration for user side - - requests listing page (meganathan_203ac11) - resolved.
+- 0170907: [+Enhancement->CSS/Design] - bootstrap classes for Table and forms (meganathan_203ac11) - resolved.
+- 0170908: [+Enhancement->CSS/Design] - new design for - activities page (meganathan_203ac11) - resolved.
+- 0170909: [+Enhancement->CSS/Design] - new design for , Job view and request view pages (meganathan_203ac11) - resolved.
+- 0170910: [+Enhancement->CSS/Design] -new design for user view page (meganathan_203ac11) - resolved.
+- 0170911: [+Enhancement->CSS/Design] - new design for Login page and register page (meganathan_203ac11) - resolved.
+- 0170912: [+Enhancement->CSS/Design] - user-dashboard and home page header menu design (meganathan_203ac11) - resolved.
+[11 issues]
+
+FP Ultra Plus - 1.0a31 (Released 2013-08-21) [ View Issues ] 
+=========================================================
+
+Thirty first alpha version released on August 21st, 2013
+
+- 0170043: [+Enhancement] High performance plugin missing (amala_187at12) - resolved.
+- 0170047: [+Enhancement] Enable/ disable of plugin in admin end (amala_187at12) - resolved.
+- 0170046: [+Enhancement] Extension plugin missing (amala_187at12) - resolved.
+- 0170045: [+Enhancement] SocialMarketing share missing (amala_187at12) - resolved.
+- 0170044: [+Enhancement] Html cache loading (amala_187at12) - resolved.
+- 0170041: [+Enhancement] Social logins integration in login, register (poornadhivya_169at11) - resolved.
+- 0170042: [+Enhancement] Social Marketing Plugin added & settings related to that is also added (poornadhivya_169at11) - resolved.
+- 0170016: [+Enhancement] Need to integrate the launchmodes plugin (arunraj_201at13) - resolved.
+- 0170017: [+Enhancement] Need to integrate the install plugin (arunraj_201at13) - resolved.
+- 0170018: [+Enhancement] Need to integrate the security questions plugin in Register, Reset Password and Edit Profile pages. (arunraj_201at13) - resolved.
+- 0170019: [+Enhancement] JobOrderDisputesController need to move in Disputes plugin (arunraj_201at13) - resolved.
+- 0169997: [+Enhancement] Convert payment module as paypal & wallet plugins (amal_196at13) - resolved.
+- 0169996: [+Enhancement] Adding Google Analytics feature (amal_196at13) - resolved.
+[13 issues]
+
+FP Ultra Plus - 1.0a30 (Released 2012-07-26) [ View Issues ] 
+=========================================================
+
+Thirtieth alpha version released
+
+- 0162046: [-Bug Documentation] [QA][wiki] - Unnecessary Title is present (aravindan_111act10) - resolved.
+- 0161178: [-Bug Documentation] [QA][wiki] - Some place mentioned as work, job and gig should use unique name what present in the site (balamurugan_177at12) - resolved.
+- 0162048: [-Bug Documentation] [QA][wiki] - Info should aligned in single line (aravindan_111act10) - resolved.
+- 0162049: [-Bug Documentation] [QA][wiki] - Unnecessary tags getting display in features page (aravindan_111act10) - resolved.
+- 0162050: [-Bug Documentation] [QA][wiki] - Title is not proper (aravindan_111act10) - resolved.
+- 0162051: [-Bug Documentation] [QA][wiki] - Auto review and payment cleared are separate setting then bullet should be proper (aravindan_111act10) - resolved.
+- 0161635: [-Bug Logic] [QA] - A Job is in inprogress, inprogress overtime and in buyer review status. Buyer can able to cancel the Job by through preap (ananda_176at12) - resolved.
+- 0161781: [-Bug PHP] [QA] - Status are not getting updated in dashboard page (ananda_176at12) - resolved.
+- 0161785: [-Bug PHP] [QA] - Affiliate page static content is present and affiliate form is missing, cannot able to create the affiliate account (ananda_176at12) - resolved.
+- 0161788: [-Bug PHP] [QA] - Newly added feedback is not getting updated (ananda_176at12) - resolved.
+- 0161790: [-Bug PHP] [QA] - After clearing cache other job feedback also getting display and buyer name also not proper (ananda_176at12) - resolved.
+- 0161775: [-Bug PHP] [QA] - Some time logout is not working properly (ananda_176at12) - resolved.
+- 0161793: [-Bug PHP] [QA][Admin] - Clear error log, Clear debug log, and Clear email log redirect to error page (ananda_176at12) - resolved.
+- 0161393: [-Bug PHP] [QA][Admin] - Clicking on enable/disable links in payment gateways redirection is not proper (meganathan_203ac11) - resolved.
+- 0161390: [-Bug PHP] [QA] - Paypal Connection should remove from site (ananda_176at12) - resolved.
+- 0161184: [-Bug PHP] [QA] - Affiliate page display without the style and options are missing (meganathan_203ac11) - resolved.
+- 0137726: [-Bug PHP] [QA]-Can not buy a job (ananda_176at12) - resolved.
+- 0161450: [-Bug PHP] [QA] - Expired activity get displaying twice (meganathan_203ac11) - resolved.
+- 0161449: [-Bug PHP] [QA] - After Auto Accepting Mutual Cancel taken place, still notification displaying (meganathan_203ac11) - resolved.
+- 0161451: [-Bug PHP] [QA] - Negative feedback dispute opened, but after payment cleared, dispute options not displaying (ananda_176at12) - resolved.
+- 0161454: [-Bug PHP] [QA] - My Revenues page, clicking on Order ID's Redirects to error page (balamurugan_177at12) - resolved.
+- 0161456: [-Bug PHP] [QA] - Canceled by buyer at In Progress over time, status color displays is not proper (balamurugan_177at12) - resolved.
+- 0161452: [-Bug PHP] Page Not Found Error (balamurugan_177at12) - resolved.
+- 0161453: [-Bug PHP] Page not Found Error (balamurugan_177at12) - resolved.
+- 0161455: [-Bug SQL] Turn off wallet by default. (balamurugan_177at12) - resolved.
+- 0161447: [-Bug PHP] [QA][Admin] - Alternate name should be proper in settings page (ananda_176at12) - resolved.
+- 0161457: [-Bug PHP] Info lacking clarity (balamurugan_177at12) - resolved.
+- 0161171: [-Bug Documentation] [QA] - Payment gateway flow option is missing in the site (balamurugan_177at12) - resolved.
+- 0161396: [-Bug PHP] [QA] - Cache issue present in user view page (balamurugan_177at12) - resolved.
+- 0161435: [-Bug Documentation] [QA][Admin] - "Action" label should get remove in payment gateways page (ananda_176at12) - resolved.
+- 0161446: [-Bug Documentation] [QA] - Activity content for Payment Cleared should be proper (ananda_176at12) - resolved.
+- 0161448: [-Bug Logic] [QA] - Waiting for acceptance state info should be proper (ananda_176at12) - resolved.
+- 0161169: [-Bug Documentation] [QA][wiki] - In site, using name as job then use the same name in wiki also in all pages (balamurugan_177at12) - closed.
+- 0161170: [-Bug Documentation] [QA][wiki] - Info should be proper (balamurugan_177at12) - closed.
+- 0161175: [-Bug Documentation] [QA][wiki] - Days after amount cleared note should display in the last as like in the arrangements in settings page (balamurugan_177at12) - closed.
+- 0161181: [-Bug PHP] [QA][wiki] - Facebook setup page leads to blank page (balamurugan_177at12) - closed.
+- 0161183: [-Bug Documentation] [QA][wiki] - Suspicious word detector and Affiliate are different module then Affiliate will display in numbering as '8' and lef (balamurugan_177at12) - closed.
+- 0161168: [-Bug Documentation] [QA][wiki] - Field name is wrongly mentioned 'Admin email address' (balamurugan_177at12) - closed.
+- 0161167: [-Bug Documentation] [QA][wiki] - Change password info is not proper, Change password option is present in top of the menu (balamurugan_177at12) - closed.
+- 0161165: [-Bug Documentation] [QA][wiki] - Use unique content for dispute decision in the site also (balamurugan_177at12) - closed.
+- 0161164: [-Bug Documentation] [QA][wiki] - User1 space should not present and Colon should be proper for 5days (balamurugan_177at12) - closed.
+- 0161159: [-Bug Documentation] [QA][wiki] - Spacing is missing (balamurugan_177at12) - closed.
+- 0161152: [-Bug Documentation] [QA][wiki] - Info should be proper (balamurugan_177at12) - closed.
+- 0161151: [-Bug Documentation] [QA][wiki] - Separate bracket should present for 'Seller & Site' (balamurugan_177at12) - closed.
+- 0161150: [-Bug Documentation] [QA][wiki] - Same content is repeated twice (balamurugan_177at12) - closed.
+[45 issues]
+
+
+FPPlatformUltraPlus - 1.0b7
+===========================
+
+Seventh beta version released on July 23rd, 2012 (Rev no: 13223)
+
+
+
+FP Ultra Plus - 1.0a29 (Released 2012-07-21) [ View Issues ] 
+=========================================================
+
+Twenty ninth alpha version released on July 23rd, 2012 (Rev no: 13223)
+
+- 0161404: [-Bug PHP] Issues inPayment (ananda_176at12) - resolved.
+[1 issue]
+
+FP Ultra Plus - 1.0a28 (Released 2012-07-21) [ View Issues ] 
+=========================================================
+
+Twenty eighth alpha version released on July 21st, 2012 (Rev no: 13208)
+
+- 0161401: [-Bug PHP] empty records adding in user table (ananda_176at12) - resolved.
+- 0161353: [-Bug PHP] [QA] - Status should display properly in order history page (ananda_176at12) - resolved.
+[2 issues]
+
+FP Ultra Plus - 1.0a27 (Released 2012-07-20) [ View Issues ] 
+=========================================================
+
+Twenty seventh alpha version released on July 20th, 2012 (Rev no: 13201)
+
+- 0161354: [-Bug PHP] [QA] - Amount not moved to seller from buyer pre approved payment (ananda_176at12) - resolved.
+- 0161360: [-Bug PHP] [QA] - Clicking on Mutual canccel request from buyer message show link, displays all orders (ananda_176at12) - resolved.
+- 0161361: [-Bug PHP] [QA] - Mutually canceled order status missing in Shopping page (ananda_176at12) - resolved.
+- 0161362: [-Bug PHP] [QA] - While admin favoring buyer and refunding amount to buyer in dispute and order expired status, pre approval not cancelled (ananda_176at12) - resolved.
+- 0161363: [-Bug PHP] [QA] - While buyer canceling pre approval in paypal site, order not canceled (ananda_176at12) - resolved.
+- 0161377: [-Bug PHP] [QA] - Before amount clearing for seller itself, revenue displays in My Jobs page (ananda_176at12) - resolved.
+- 0161378: [-Bug PHP] [QA] - Completed state, "Buyer requesting rework without reason" dispute displaying for seller (ananda_176at12) - resolved.
+- 0161379: [-Bug PHP] [QA][Admin] - Multiple transaction logs displaying for a single order (ananda_176at12) - resolved.
+- 0161383: [-Bug PHP] [QA][Admin] - Amount displays as "0" in adaptive transaction log (ananda_176at12) - resolved.
+- 0161375: [-Bug Documentation] [QA] - Flash message content "r" should be in caps (meganathan_203ac11) - resolved.
+- 0161376: [-Bug PHP] [QA] - Seller username missing in "Rejected request improvement" mail (meganathan_203ac11) - resolved.
+- 0161387: [-Bug PHP] [QA][Mail] - Mail content should be proper in "Amount cleared" mail (meganathan_203ac11) - resolved.
+[12 issues]
+
+FP Ultra Plus - 1.0a26 (Released 2012-03-19) [ View Issues ] 
+=========================================================
+
+Twenty sixth alpha version released on July 18th, 2012 (rev no: 13167)
+
+- 0161295: [+Enhancement] gzip cache *** Optimized: refer cssilize & 360contest (balamurugan_177at12) - resolved.
+- 0159864: [-Bug PHP] Map on search location not working (balamurugan_177at12) - resolved.
+- 0161297: [-Bug Logic] -Affiliates, affliate user need to set proper status for signup and purchase (meganathan_203ac11) - resolved.
+- 0150000: [-Bug PHP] [QA]-Rework Job status is not working (meganathan_203ac11) - resolved.
+- 0151805: [-Bug PHP] [fpplatformultrapius] -Error on page (meganathan_203ac11) - resolved.
+[5 issues]
+
+FP Ultra Plus - 1.0a25 (Released 2011-09-19) [ View Issues ] 
+=========================================================
+
+Twenty fifth alpha version released on DEC 23, 2011 (rev 12839)
+
+- 0152494: [+Enhancement] Need to add cash withdrawal comission settings (aravindan_111act10) - resolved.
+- 0152495: [+Enhancement] Need to add google api key related settings (aravindan_111act10) - resolved.
+- 0152496: [+Enhancement] Need to add setting category for google api translation (aravindan_111act10) - resolved.
+- 0151861: [-Bug PHP] Need to fix 404 error when viewing activites page of a suspended or inactive gig (aravindan_111act10) - resolved.
+- 0151862: [-Bug PHP] Need to fix 404 error due to invalid link from my histories page (aravindan_111act10) - resolved.
+- 0151863: [-Bug PHP] Need to hide cancel & other links from administrator end for payment pending order (aravindan_111act10) - resolved.
+- 0151592: [-Bug PHP] Need to fix purchase redirect , during paypal return error (aravindan_111act10) - resolved.
+- 0151584: [-Bug PHP] Need to fix the 'payment_gateway_flow_id' wrong variable correctly. (aravindan_111act10) - resolved.
+- 0148311: [-Bug PHP] [QA] - You tube video not displaying in lightbox, error message displaying (arovindhan_144at11) - resolved.
+[9 issues]
+
+FP Ultra Plus - 1.0a24 (Released 2011-09-07) [ View Issues ] 
+=========================================================
+
+Twenty fourth alpha version released on September 19, 2011 (rev 12688)
+
+- 0148022: [-Bug PHP] - facebook email issue fixed (mohanraj_109at09) - resolved.
+- 0148023: [-Bug PHP] Added "fb_access_token" fields in users table (mohanraj_109at09) - resolved.
+- 0148024: [-Bug PHP] Added the facebook setting "page_id" (mohanraj_109at09) - resolved.
+[3 issues]
+
+FP Ultra Plus - 1.0a23 (Released 2011-08-30) [ View Issues ] 
+=========================================================
+
+Twenty third alpha version released on September 07, 2011 (rev 12660)
+
+- 0147337: [-Bug PHP] Pay connection is not working (arovindhan_144at11) - resolved.
+- 0147009: [-Bug PHP] [QA]-Purchase through paypal then click the continue button is not working (arovindhan_144at11) - resolved.
+- 0147010: [-Bug CSS] [QA]-Icon is missing for review (arovindhan_144at11) - resolved.
+- 0147011: [-Bug PHP] [QA]-Paypal withdraw is not working (arovindhan_144at11) - resolved.
+- 0147012: [-Bug PHP] [QA]-request Page redirection is not proper (arovindhan_144at11) - resolved.
+[5 issues]
+
+FP Ultra Plus - 1.0a22 (Released 2011-08-25) [ View Issues ] 
+=========================================================
+
+Twenty second alpha version released on August 30, 2011 (rev 12571)
+
+- 0146864: [+Enhancement] powered by image name need to change (arovindhan_144at11) - resolved.
+- 0146865: [+Enhancement] twitter account details changes (arovindhan_144at11) - resolved.
+- 0146866: [+Enhancement] cron.sh file project name changes (arovindhan_144at11) - resolved.
+- 0146867: [+Enhancement] removing unwanted translations SQL files (arovindhan_144at11) - resolved.
+[4 issues]
+
+FP Ultra Plus - 1.0a21 (Released 2011-08-06) [ View Issues ] 
+=========================================================
+
+Twenty first alpha version released on August 25, 2011 (rev 12530)
+
+- 0146668: [+Enhancement] Need to refund amount to wallet during force adaptive setting disabled (aravindan_111act10) - resolved.
+- 0146669: [+Enhancement] Need to add cash withdrawal process during force adaptive disabled (aravindan_111act10) - resolved.
+- 0146670: [+Enhancement] Need to do managing delayed payment through normal way. (aravindan_111act10) - resolved.
+[3 issues]
+
+FP Ultra Plus - 1.0a20 (Released 2011-07-11) [ View Issues ] 
+=========================================================
+
+Twentieth alpha version released on August 06, 2011 (rev 12483)
+
+- 0145318: [+Enhancement] Admin stats caching and refresh option (arovindhan_144at11) - resolved.
+- 0145319: [+Enhancement] Missing table indexing need to index (arovindhan_144at11) - resolved.
+- 0145320: [+Enhancement] Diagnostics sub menus - for admin side bar (arovindhan_144at11) - resolved.
+- 0145321: [-Bug PHP] Manual cron running - flash message missing in admin side (arovindhan_144at11) - resolved.
+[4 issues]
+
+FP Ultra Plus - 1.0a19 (Released 2011-07-11) [ View Issues ] 
+=========================================================
+
+Nineteenth alpha version released on July 11, 2011 (rev 12339)
+
+- 0144320: [+Enhancement] affiliate setting default amounts are need to fix (arovindhan_144at11) - resolved.
+- 0144321: [-Bug PHP] need to fix login issue with Facebook and Twitter (sakthivel_135at10) - resolved.
+- 0144322: [-Bug PHP] Affiliate approval issue need to fix in admin end (anandam_023ac09) - resolved.
+[3 issues]
+
+FP Ultra Plus - 1.0a18 (Released 2011-05-18) [ View Issues ] 
+=========================================================
+
+eighteenth alpha version released on Mar 25, 2011 (rev 12037)
+
+- 0143105: [-Bug PHP] Home page map - zooming problem it is not a issue. it is working fine (sakthivel_135at10) - resolved.
+- 0143106: [+Enhancement] view page map - kml not working (sakthivel_135at10) - resolved.
+- 0143107: [-Bug CSS] "on time" color like "Inprogress" color (sakthivel_135at10) - resolved.
+- 0143049: [-Bug PHP] Need to remove unwant column in affiliate stats and admin stats (moon01) - resolved.
+- 0143050: [+Enhancement] Facebook need to upgrade to OAuth 2.0 protocol (arovindhan_144at11) - resolved.
+[5 issues]
+
+FP Ultra Plus - 1.0a17 (Released 2011-05-17) [ View Issues ] 
+=========================================================
+
+seventeenth alpha version released on Mar 18, 2011 (rev 12003)
+
+- 0142952: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/jobs/add [^] - Request Category -> need to fill all, when "Job Type" not selec (sakthivel_135at10) - resolved.
+- 0142953: [-Bug PHP] - http://fpplatformultraplusdev.dev.agriya.com/requests/add [^] - Request Category -> need to fill all, when "Job Type" not s (sakthivel_135at10) - resolved.
+- 0142954: [-Bug PHP] http://fpplatformultraplusdev.dev.agriya.com/requests/add [^] - second step related jobs - Related Jobs -> style need to impr (sakthivel_135at10) - resolved.
+- 0142955: [-Bug PHP] http://fpplatformultraplusdev.dev.agriya.com/users/login [^] - openID - username displayed in redirect page wr (sakthivel_135at10) - resolved.
+- 0142956: [-Bug CSS] http://fpplatformultraplusdev.dev.agriya.com/users/yahoo/login [^] - design need to improve (sakthivel_135at10) - resolved.
+- 0142957: [+Enhancement] AES encryption - PayPal pre-approval-key (sakthivel_135at10) - resolved.
+- 0142950: [+Enhancement] Affiliate stats Reject should be changed to Rejected (arovindhan_144at11) - resolved.
+- 0142949: [+Enhancement] Affiliate stats Success should be changed to Paid (arovindhan_144at11) - resolved.
+- 0142948: [+Enhancement] Affiliate stats Fail should be changed to Payment Failure (arovindhan_144at11) - resolved.
+- 0142947: [-Bug PHP] Affiliate access error page in admin (arovindhan_144at11) - resolved.
+- 0142946: [-Bug PHP] Affiliate request is_approved should be yes or no. (arovindhan_144at11) - resolved.
+- 0142943: [+Enhancement] Afiliate request form text an need to be add (arovindhan_144at11) - resolved.
+[12 issues]
+
+FP Ultra Plus - 1.0a16 (Released 2011-03-10) [ View Issues ] 
+=========================================================
+
+sixteenth alpha version released on Mar 17, 2011 (rev 11978)
+
+- 0142909: [-Bug Logic] Can be do activate the order which is already active ( In seller login, job order) It is not a issue (sakthivel_135at10) - resolved.
+- 0142910: [-Bug PHP] Job coverage radius not showing up properly in Map It is working (sakthivel_135at10) - resolved.
+- 0142370: [+Enhancement] -http://fpplatformultraplus.dev.agriya.com/ [^] category listing is missing ? Here we are showing both jobs & request. category lis (sakthivel_135at10) - resolved.
+- 0142893: [+Enhancement] please change the map function to work like from this site. http://yoink.com/ [^] (PARTIALLY DONE) (sakthivel_135at10) - resolved.
+- 0142894: [-Bug PHP] Dispute form not displaying in IE. it is working (sakthivel_135at10) - resolved.
+- 0142895: [-Bug PHP] Post a Request page design is not proper (sakthivel_135at10) - resolved.
+- 0142896: [-Bug PHP] While clicking on related jobs next button in request view page, Page design get collapsed in IE7 it is working (sakthivel_135at10) - resolved.
+- 0142900: [-Bug PHP] Request improvement & Redeliver request confusion (sakthivel_135at10) - resolved.
+- 0142901: [-Bug CSS] -http://fpplatformultraplus.dev.agriya.com/ [^] if you see the request section, you will see that the actual job title and the tex (sakthivel_135at10) - resolved.
+- 0142902: [-Bug PHP] affiliate sidebar issue when not logged in (sakthivel_135at10) - resolved.
+- 0142906: [+Enhancement] set paypal header image (sakthivel_135at10) - resolved.
+- 0142908: [-Bug CSS] Job add, Offline additional information alignment is not proper (sakthivel_135at10) - resolved.
+- 0142907: [-Bug PHP] Should correct gig image display in FBlike (usha_111at09) - resolved.
+- 0142905: [-Bug PHP] like broken should be correct <http://fpplatformultraplusdev.dev.agriya.com/r:user2> [^] (boopathi_026ac09) - resolved.
+- 0142304: [-Bug PHP] Job type not displaying in grid view listing of jobs in My Jobs page (aravindan_111act10) - resolved.
+- 0142303: [-Bug PHP] flash success message is missing when buyer buy the work with wallet (aravindan_111act10) - resolved.
+- 0142302: [-Bug PHP] Seller stats rating displays the job rating (aravindan_111act10) - resolved.
+- 0142301: [-Bug PHP] Inactive user and total user count displays is not proper (aravindan_111act10) - resolved.
+- 0142300: [-Bug PHP] While seller opening dispute, in buyer account message displays as "your order is ready and waiting for your review" (aravindan_111act10) - resolved.
+- 0142299: [-Bug PHP] Status not displaying for the dispute coversation sent by admin (aravindan_111act10) - resolved.
+- 0142298: [-Bug PHP] Sales Pipeline amount should display without site commission in seller account (aravindan_111act10) - resolved.
+- 0142297: [-Bug PHP] Same order presents in two stages " Active" and also in "In progress" (aravindan_111act10) - resolved.
+- 0142296: [-Bug PHP] For seller conversation user display position should be consistent (aravindan_111act10) - resolved.
+- 0142295: [-Bug PHP] Dispute closed message get delivered to seller instead of delivering to buyer (aravindan_111act10) - resolved.
+- 0142305: [-Bug PHP] After completed work also, in seller view page, work in progress displays as 2 (aravindan_111act10) - resolved.
+- 0142293: [-Bug PHP] Information is wrong, Should be "seller" - refer screen shot 3seller (sakthivel_135at10) - resolved.
+- 0142294: [-Bug PHP] Correct grammatical mistake in info (sakthivel_135at10) - resolved.
+- 0142292: [-Bug CSS] -Negative feedback icon displaying for positive feedback section (sakthivel_135at10) - resolved.
+- 0142290: [-Bug JavaScript] Two scroll options displaying for request. (sakthivel_135at10) - resolved.
+- 0142291: [-Bug PHP] Keyword search not working in disputes listing page (sakthivel_135at10) - resolved.
+- 0142289: [-Bug PHP] Same request displaying in other requests by user section in request view page (sakthivel_135at10) - resolved.
+[31 issues]
+
+FP Ultra Plus - 1.0a15 (Released 2011-03-09) [ View Issues ] 
+=========================================================
+
+Fifteenth alpha version released on Mar 10, 2011 (rev 11091)
+
+- 0141364: [-Bug PHP] Dispute gets hidden, when buyer gives negative rating issue fixed. (aravindan_111act10) - resolved.
+- 0141365: [-Bug PHP] Mutual cancel textarea missing for first request has been added (aravindan_111act10) - resolved.
+- 0141367: [+Enhancement] Request view page modified - posted date - truncate for all 3 - [offline, user ,created] remove related jobs (aravindan_111act10) - resolved.
+- 0141368: [+Enhancement] Background for elements for user view page - jobs and request has been added (aravindan_111act10) - resolved.
+- 0141369: [-Bug PHP] Waiting for review/delivery work issue during alternate change has been fixed (aravindan_111act10) - resolved.
+- 0141370: [-Bug PHP] Dispute open and closed status info message added (aravindan_111act10) - resolved.
+- 0141371: [-Bug PHP] Payment success page - button has been changed (aravindan_111act10) - resolved.
+- 0141372: [-Bug PHP] Info for request improvement has beeen added along with conditions for offline jobs (aravindan_111act10) - resolved.
+- 0141373: [-Bug PHP] Admin false has been added for job order dispute admin index page (aravindan_111act10) - resolved.
+- 0141374: [-Bug PHP] activities - waiting for review - empty submit check validation done - sql - dispute types info message added (aravindan_111act10) - resolved.
+- 0141376: [-Bug PHP] conditions added for removing map for favorite list jobs / requests (aravindan_111act10) - resolved.
+- 0141377: [-Bug PHP] Stuffs i like label changed (aravindan_111act10) - resolved.
+- 0141378: [-Bug PHP] Request count displayed properly (aravindan_111act10) - resolved.
+- 0141379: [-Bug Logic] Automatic dispute run has been modified logical and functioniliy (aravindan_111act10) - resolved.
+- 0141380: [+Enhancement] Dispute open type and info for automatic dispute process added (aravindan_111act10) - resolved.
+- 0141381: [-Bug PHP] commission link for affiliate in settings -> affiliate added (aravindan_111act10) - resolved.
+- 0141382: [-Bug Logic] Refund process modified for expire, reject, cancel, admin cancel, mutual cancel (aravindan_111act10) - resolved.
+- 0141383: [-Bug PHP] Style breaks for new user, new gig and tidy err corrected (aravindan_111act10) - resolved.
+- 0141384: [-Bug Logic] Refund process modified for dispute resolving for buyer by refunding (aravindan_111act10) - resolved.
+[19 issues]
+
+FP Ultra Plus - 1.0a14 (Released 2011-02-25) [ View Issues ] 
+=========================================================
+
+Fourteenth alpha version released on Mar 02, 2011 (rev 10681)
+
+- 0140816: [+Enhancement] Activites top portion modified - changed as per new design (aravindan_111act10) - resolved.
+- 0140817: [-Bug PHP] dispute conditions modified - dispute willnot be show for waiting for acceptance status (aravindan_111act10) - resolved.
+- 0140819: [+Enhancement] Dashboard modified - filters display style modified (aravindan_111act10) - resolved.
+- 0140814: [+Enhancement] affiliate section implemented (anandam_023ac09) - resolved.
+- 0140815: [+Enhancement] new design integration (josephine_065at09) - resolved.
+[5 issues]
+
+FP Ultra Plus - 1.0a13 (Released 2011-02-17) [ View Issues ] 
+=========================================================
+
+Thirty alpha version released on Feb 25, 2011 (rev 10308)
+
+- 0140466: [-Bug PHP] Dashboard buyer links - all statuses and links added (aravindan_111act10) - resolved.
+- 0140467: [-Bug PHP] shortcut user tabs removed (aravindan_111act10) - resolved.
+- 0140468: [+Enhancement] tweeter will showed only for homepage (aravindan_111act10) - resolved.
+- 0140469: [-Bug PHP] top seller will be shown in homepage and in job index page (aravindan_111act10) - resolved.
+- 0140470: [+Enhancement] User dashboard - rating displayed, color displayed (aravindan_111act10) - resolved.
+- 0140471: [-Bug PHP] activities page - white backgroud removed, label and info changed (aravindan_111act10) - resolved.
+- 0140472: [+Enhancement] Unwanted code, methods removed (aravindan_111act10) - resolved.
+- 0140473: [-Bug PHP] Buyer, seller missing sidebars added (aravindan_111act10) - resolved.
+- 0140384: [-Bug PHP] selling menu - need sales balance (sakthivel_135at10) - resolved.
+- 0140385: [+Enhancement] - dashboard - Buyer - Waiting for review - In Progress - Waiting For Review - Completed - Failed (sakthivel_135at10) - resolved.
+- 0140386: [+Enhancement] - add Job index to buyer background (sakthivel_135at10) - resolved.
+- 0140387: [+Enhancement] - menu changes (sakthivel_135at10) - resolved.
+- 0140388: [+Enhancement] - user dashboard changes (sakthivel_135at10) - resolved.
+- 0140389: [-Bug PHP] - dispute list in admin changes (sakthivel_135at10) - resolved.
+- 0140390: [+Enhancement] - footer menu removed (sakthivel_135at10) - resolved.
+- 0140391: [-Bug PHP] - job add page offline addtional info changes (sakthivel_135at10) - resolved.
+- 0140392: [-Bug PHP] - admin - comment dispute type (sakthivel_135at10) - resolved.
+- 0140375: [-Bug PHP] activities view page fixes done - spelling and other changes (aravindan_111act10) - resolved.
+- 0140376: [-Bug PHP] Unwanted link from feedback removed and contact type not used deactivated. (aravindan_111act10) - resolved.
+- 0140377: [-Bug PHP] My Shopping - blank status conditions checked and track order removed. (aravindan_111act10) - resolved.
+- 0140378: [-Bug PHP] add to wallet - default selection corrected (aravindan_111act10) - resolved.
+- 0140379: [-Bug PHP] view message by order need to change the label corrected (aravindan_111act10) - resolved.
+- 0140380: [+Enhancement] - Job service location label changes done through out the site and in db (aravindan_111act10) - resolved.
+- 0140381: [+Enhancement] manage email settings - new email redeliver, mutual cancel, disputed related messagse added (aravindan_111act10) - resolved.
+- 0140382: [+Enhancement] activities = instruction to buyer and verification code added (aravindan_111act10) - resolved.
+- 0140383: [-Bug PHP] activities - status message corrected for 'Redeliver', 'Dispute', 'Mutual Cancel' (aravindan_111act10) - resolved.
+[26 issues]
+
+FP Ultra Plus - 1.0a12 (Released 2011-02-02) [ View Issues ] 
+=========================================================
+
+Twelfth alpha version released on Feb 17, 2011 (rev 9837)
+
+- 0139925: [+Enhancement] Manage order section modified (sakthivel_135at10) - resolved.
+- 0139926: [+Enhancement] manage order - existing hide/show process modified (sakthivel_135at10) - resolved.
+- 0139572: [-Bug PHP] Redirection should proper, after admin edit gig (moon01) - resolved.
+- 0139571: [-Bug PHP] Language need to switch when site default language change in admin side (moon01) - resolved.
+- 0138505: [-Bug CSS] Need text alignment in http://fpplatformultraplus.dev.agriya.com/admin/banned_ips/add [^] (saranya_127act10) - resolved.
+- 0138608: [-Bug CSS] view page - order button and top menu bar in safari (saranya_127act10) - resolved.
+- 0138449: [-Bug CSS] Gig view page, while unlike the gig, button not aligned. (saranya_127act10) - resolved.
+- 0138700: [+Feature Additional] In Friends import, Gmail import not working properly. (usha_111at09) - resolved.
+- 0138496: [-Bug CSS] Form alignment missing in http://fpplatformultraplus.dev.agriya.com/admin/messages [^] (saranya_127act10) - resolved.
+- 0138504: [-Bug CSS] Form and button alignment missing in http://fpplatformultraplus.dev.agriya.com/admin/transactions [^] (saranya_127act10) - resolved.
+- 0138506: [-Bug CSS] over-flow block class missing (saranya_127act10) - resolved.
+- 0138607: [-Bug CSS] style issue in purchase page - for wallet button (saranya_127act10) - resolved.
+- 0138491: [-Bug CSS] Alignment problem for password field in register and login page for other language (saranya_127act10) - resolved.
+- 0138482: [-Bug CSS] Myworks sidebar alignment is not proper in other language (saranya_127act10) - resolved.
+- 0138480: [-Bug CSS] When we changed default language, gig view page alignment is not proper. (saranya_127act10) - resolved.
+- 0138479: [-Bug CSS] When we changed default language, index page "like" button alignment is not proper. (saranya_127act10) - resolved.
+- 0138476: [-Bug CSS] Jobs list page pagination link needs some more space. (saranya_127act10) - resolved.
+- 0138471: [-Bug CSS] Seller gain page, Closed amount and pending funds needs to differenciate various colour and font style. (saranya_127act10) - resolved.
+- 0138468: [-Bug CSS] User edit notification page, check boxes are not aligned properly. (saranya_127act10) - resolved.
+- 0138448: [-Bug CSS] index page , Jobs list Pagination link needs space. (saranya_127act10) - resolved.
+[20 issues]
+
+FP Ultra Plus - 1.0a11 (Released 2011-01-31) [ View Issues ] 
+=========================================================
+
+Eleventh alpha version released on Feb 02, 2011 (rev 9530)
+
+- 0138613: [-Bug PHP] more", hide and show not working (aravindan_111act10) - resolved.
+- 0138618: [-Bug PHP] Mutual Cancel related issues fixed (aravindan_111act10) - resolved.
+- 0138617: [-Bug PHP] Redeliever related issue fixed (aravindan_111act10) - resolved.
+- 0138616: [-Bug PHP] Activities page "title" - Activities - Job Title - #12 (aravindan_111act10) - resolved.
+- 0138615: [-Bug Documentation] Dispute, "Currently, your current" info need to remove second current (aravindan_111act10) - resolved.
+- 0138614: [-Bug PHP] Verification code" validation, need model side validation (aravindan_111act10) - resolved.
+- 0138612: [-Bug PHP] In request add, "My Jobs" list need to set limit 5, now it display 1 (aravindan_111act10) - resolved.
+- 0138611: [-Bug PHP] class for activities added (aravindan_111act10) - resolved.
+- 0138619: [-Bug PHP] - "Activities" - "Manage Order" need textarea for redeliver comment (aravindan_111act10) - resolved.
+- 0138587: [-Bug PHP] Message view "ago" display twice (sakthivel_135at10) - resolved.
+- 0138562: [-Bug JavaScript] In Map iframe need to remove (sakthivel_135at10) - resolved.
+- 0138563: [-Bug PHP] "My Jobs" need to remove "I will" and "for", we removed this in all places (sakthivel_135at10) - resolved.
+- 0138564: [-Bug PHP] "Activities" page, After enter admin comment, redirection is wrong (sakthivel_135at10) - resolved.
+- 0138565: [-Bug PHP] Settings -> label change -> "Disputed user to reply" (sakthivel_135at10) - resolved.
+- 0138566: [-Bug PHP] "Add to wallet page" - Need to remove wallet option (sakthivel_135at10) - resolved.
+- 0138567: [+Enhancement] "Activities" <- need in admin stats (i.e job order dispute) (sakthivel_135at10) - resolved.
+- 0138568: [+Enhancement] Need filter option for New/Open, Waiting for Administrator action, Closed (sakthivel_135at10) - resolved.
+- 0138569: [+Enhancement] "Dispute" listing need to correct. (sakthivel_135at10) - resolved.
+- 0138572: [+Enhancement] "Dispute Type" need to display for admin in listing page (moon01) - resolved.
+[19 issues]
+
+FP Ultra Plus - 1.0a10 (Released 2011-01-24) [ View Issues ] 
+=========================================================
+
+Tenth alpha version released on Jan 31, 2011 (rev 9360)
+
+- 0138282: [+Enhancement] fine tuning the site (josephine_065at09) - resolved.
+- 0138281: [+Enhancement] design integration done (usha_111at09) - resolved.
+- 0138280: [+Enhancement] activities for orders listed (aravindan_111act10) - resolved.
+- 0138279: [+Enhancement] Dispute process - handling refund, review and pay seller process done (aravindan_111act10) - resolved.
+- 0138278: [+Enhancement] Dispute process added (aravindan_111act10) - resolved.
+[5 issues]
+
+FP Ultra Plus - 1.0a09 (Released 2010-12-30) [ View Issues ] 
+=========================================================
+
+Ninth alpha version released on Jan 23, 2010 (rev 9128)
+
+- 0137823: [+Feature Additional] Mutual cancel option added (Both seller and buyer) (usha_111at09) - resolved.
+- 0137824: [+Feature Additional] Redeliver option added for buyer (usha_111at09) - resolved.
+- 0137825: [+Feature Additional] While redeliver request sent by buyer, mail will trigger for both of them(seller and buyer). (usha_111at09) - resolved.
+- 0137826: [+Feature Additional] Activities option page added for both seller and buyer. (usha_111at09) - resolved.
+- 0136696: [-Bug Logic] [QA]-/jobs/job_type_id:1 - Search a location means map redirect a blank map (usha_111at09) - resolved.
+- 0136808: [-Bug PHP] [QA] - After adding a job, user get logged out of the site (usha_111at09) - resolved.
+- 0135655: [-Bug PHP] http://localhost/fpplatformultraplus/admin/needs [^] - q search add (usha_111at09) - resolved.
+- 0135656: [+Enhancement] http://localhost/fpplatformultraplus/admin/need_views [^] - q search needed. (usha_111at09) - resolved.
+- 0135657: [-Bug PHP] http://localhost/fpplatformultraplus/admin/need_views [^] - bulk delete option needed. (usha_111at09) - resolved.
+- 0136055: [-Bug PHP] [QA]-Gig and need information not displayed properly in map (usha_111at09) - resolved.
+- 0136063: [-Bug PHP] [QA]-Address field should be an optional field (usha_111at09) - resolved.
+- 0136076: [-Bug PHP] [QA]-Blank details are displaying in the marker. (usha_111at09) - resolved.
+- 0136530: [-Bug Unexpected Output] [QA]/jobs/add - Choose files not working in Opera (usha_111at09) - resolved.
+- 0136531: [-Bug PHP] [QA]/jobs/add - Adding job going on processing (usha_111at09) - resolved.
+- 0136766: [-Bug Logic] [QA]fpplatformultraplus.dev.agriya.com - Follow us links are missing (usha_111at09) - resolved.
+- 0136780: [-Bug Logic] [QA]/admin/users - Should redirect a successfully message on cron (usha_111at09) - resolved.
+- 0136782: [-Bug Logic] [QA]/admin/settings - Wallet amount is shows wrong (usha_111at09) - resolved.
+- 0136789: [-Bug Unexpected Output] [QA]/admin/adaptive_transaction_log/46 - Unexpected issue (usha_111at09) - resolved.
+- 0136790: [-Bug PHP] [QA]/jobs/add - My Job added a page is loaded a long time (usha_111at09) - resolved.
+- 0136804: [-Bug Logic] [QA]/jobs/category/programming - Map is not shows a location (usha_111at09) - resolved.
+- 0136785: [-Bug PHP] [QA]/admin/settings - Twitter can able to login , but we twitter login is disabled (usha_111at09) - resolved.
+- 0136902: [-Bug PHP] [QA]/requests/edit/7 - I deleted a address in edit part , but still map is shows on that location (usha_111at09) - resolved.
+- 0136788: [-Bug Logic] [QA] fpplatformultraplus.dev.agriya.com/ - Should be a link on view (usha_111at09) - resolved.
+- 0136934: [+Enhancement] [QA]/requests/add - Page style should be as like in Job add page (usha_111at09) - resolved.
+- 0136935: [-Bug Logic] [QA]/requests/add - Help text displays for Request category is not proper (usha_111at09) - resolved.
+- 0136936: [-Bug PHP] [QA]/requests/add - Entered contact address not fetching in Request Add page (usha_111at09) - resolved.
+- 0136937: [-Bug Logic] [QA]/requests/add - Information displays is not proper (usha_111at09) - resolved.
+- 0136943: [-Bug PHP] [QA][Admin]/admin/requests - Requests view count displays is not proper (usha_111at09) - resolved.
+- 0136947: [-Bug PHP] [QA][Admin]/admin/request_views - Keyword search not working in Requests views page (usha_111at09) - resolved.
+- 0136784: [-Bug PHP] [QA]/user_friends/import - Yahoo link is leads to blank page (usha_111at09) - resolved.
+- 0137247: [-Bug Logic] [QA]/admin/settings - Wallet amount is shows wrong - closed.
+- 0137241: [-Bug PHP] [QA]/admin/jobs/add - Admin side in add a job means like redirect in unexpected - closed.
+- 0137240: [+Enhancement->CSS/Design] [QA]/messages/compose/type:contact - Alignment is missing - closed.
+- 0137224: [-Bug PHP] [QA]/jobs - Can't able to buy a job using paypal payment - closed.
+- 0136786: [-Bug Logic] [QA]/admin/request_flag_categories - Should be a link - closed.
+[35 issues]
+
+FP Ultra Plus - 1.0a08 (Released 2010-12-28) [ View Issues ] 
+=========================================================
+
+Eighth alpha version released on Dec 30, 2010 (rev 8748)
+
+- 0136735: [+Enhancement] Piracy handling (boopathi_026ac09) - resolved.
+- 0136691: [+Enhancement->CSS/Design] [QA] - /page/term-and-policies - Alignment is not proper. - closed.
+- 0136680: [+Enhancement->CSS/Design] [QA]fpplatformultraplus.dev.agriya.com/ - Design issue - closed.
+[3 issues]
+
+FP Ultra Plus - 1.0a07 (Released 2010-12-22) [ View Issues ] 
+=========================================================
+
+Seventh alpha version released on Dec 28, 2010 (rev 8698)
+
+- 0136576: [+Enhancement] Add to wallet added (aravindan_111act10) - resolved.
+- 0136577: [+Enhancement] Purchase page seperate form merged to single form (aravindan_111act10) - resolved.
+[2 issues]
+
+FP Ultra Plus - 1.0a06 (Released 2010-12-17) [ View Issues ] 
+=========================================================
+
+Sixth alpha version released on Dec 22, 2010 (rev 8564)
+
+- 0136249: [-Bug PHP] Request & job index page click add click -> it should not load ajax (aravindan_111act10) - resolved.
+- 0136251: [-Bug PHP] Display job type and service location (aravindan_111act10) - resolved.
+- 0136252: [-Bug PHP] Click "buy now" Button after open lightbox job description below add - display service location and job type (aravindan_111act10) - resolved.
+- 0136254: [+Enhancement] Purchase Step 2 modfiications (aravindan_111act10) - resolved.
+- 0136255: [+Enhancement] - Manage Work change to alternative name (aravindan_111act10) - resolved.
+- 0136257: [+Enhancement] Track order modification (aravindan_111act10) - resolved.
+- 0136259: [-Bug PHP] Admin inbox redication issue (aravindan_111act10) - resolved.
+- 0136260: [-Bug PHP] - For online jobs also verification code gets generated (aravindan_111act10) - resolved.
+- 0136261: [+Enhancement] change link in accept order mail (aravindan_111act10) - resolved.
+- 0136262: [+Enhancement] allow cancel by admin in review status (aravindan_111act10) - resolved.
+- 0136263: [+Enhancement] Active option missing in edit user page in admin side (aravindan_111act10) - resolved.
+- 0136264: [-Bug PHP] Pagination links not displaying for Requests displaying in home page (aravindan_111act10) - resolved.
+- 0136265: [-Bug PHP] Jobs listing page, no filter option missing for job type online and offline (aravindan_111act10) - resolved.
+- 0136266: [+Enhancement] KML link for view page - routes, view, controller, CORE (aravindan_111act10) - resolved.
+- 0136267: [-Bug PHP] - Pending order status to click purchase button - after open lightbox Map not displaying (aravindan_111act10) - resolved.
+- 0136239: [-Bug PHP] - User view page [Act as Seller part] - count issue - Total Order Received - Total Success Order without Overtime - Total Suc (anandam_023ac09) - resolved.
+- 0136241: [-Bug PHP] Thank you for purchase lightbox content shouls be reduced (anandam_023ac09) - resolved.
+- 0136242: [-Bug PHP] Link missing for Request in My Requests listing in grid view (anandam_023ac09) - resolved.
+- 0136243: [-Bug PHP] Flash message displays for Approving and disapproving Request in admin side is no proper (anandam_023ac09) - resolved.
+- 0136244: [-Bug PHP] Recently added need gets displayed at the last in listing page (anandam_023ac09) - resolved.
+- 0136245: [-Bug PHP] Instruction to Buyer info added to job view page (anandam_023ac09) - resolved.
+- 0136246: [-Bug PHP] zoom level update not working (anandam_023ac09) - resolved.
+- 0136247: [-Bug PHP] - http://fpplatformultraplus.dev.agriya.com/admin/job_views/stat:day [^] - title not corrected.. filter title should display - (anandam_023ac09) - resolved.
+- 0136248: [-Bug PHP] - http://fpplatformultraplus.dev.agriya.com/admin/job_favorites/stat:week [^] - title not corrected.. filter title should display (anandam_023ac09) - resolved.
+- 0136250: [-Bug PHP] - Audio captcha problem (anandam_023ac09) - resolved.
+- 0136253: [-Bug PHP] - map should not be display for "My request" "My jobs" page (anandam_023ac09) - resolved.
+- 0136256: [-Bug PHP] Payment pending filter option is missing in admin side jobs orders listing page (anandam_023ac09) - resolved.
+- 0136081: [-Bug PHP] [QA]-Rating information displayed is not proper (aravindan_111act10) - closed.
+- 0136086: [-Bug PHP] [QA]-Cancel link redirects to error page (aravindan_111act10) - closed.
+- 0136082: [-Bug PHP] [QA]-Page redirection is not proper (aravindan_111act10) - closed.
+[30 issues]
+
+FP Ultra Plus - 1.0a05 (Released 2010-12-13) [ View Issues ] 
+=========================================================
+
+Fifth alpha version released on Dec 17, 2010 (rev 8361)
+
+- 0135979: [-Bug PHP] Online jobs too to have address & lat, long (moon01) - resolved.
+- 0135975: [-Bug PHP] In needs flag, it displays all jobs flagged by the user- should display the needs (anandam_023ac09) - resolved.
+- 0135978: [-Bug PHP] Home page map search (anandam_023ac09) - resolved.
+- 0135974: [-Bug PHP] When job move to auto review, buyer won't receive any intimation mail. (aravindan_111act10) - resolved.
+- 0135986: [-Bug PHP] Order placed mail has not sent to seller or buyer (aravindan_111act10) - resolved.
+- 0135982: [-Bug PHP] While viewing any user profile "Act as Buyer" and "Act as seller" Total order count... not displayed properly (aravindan_111act10) - resolved.
+- 0135976: [-Bug PHP] While suspend any need in admin login, message displayed as job (aravindan_111act10) - resolved.
+- 0135980: [-Bug PHP] "Request" and "Job" separate name for home page display (moon01) - resolved.
+- 0135977: [-Bug PHP] In a need view page in admin login, should list out the views of that need not for the all needs (aravindan_111act10) - resolved.
+- 0135984: [-Bug PHP] In add job page, both online and offline job category gets displayed (aravindan_111act10) - resolved.
+- 0135981: [-Bug PHP] Need to remove unwanted count updates in users table (boopathi_026ac09) - resolved.
+- 0135983: [-Bug PHP] ttachment add - redirect to job selling page issue [uploader redirect set type=>'manage_jobs'] (anandam_023ac09) - resolved.
+- 0135985: [-Bug PHP] Offline jobs purchase not working when service type is seller (anandam_023ac09) - resolved.
+- 0135987: [-Bug PHP] Request - "address" need to get.. for offline it mandatory (anandam_023ac09) - resolved.
+- 0135988: [-Bug PHP] disable job type (anandam_023ac09) - resolved.
+- 0135989: [-Bug PHP] setting for embbed and static map in view page (anandam_023ac09) - resolved.
+- 0135846: [-Bug PHP] Need to add the condition such as Filter by user id,user name,job slug , job id condition added in job_feedback , job_view (moon01) - resolved.
+- 0135841: [-Bug PHP] In admin in need views listing page record displayed without user name should be replaced by guest (moon01) - resolved.
+- 0135839: [-Bug PHP] Need to add request favourites (moon01) - resolved.
+- 0135838: [-Bug PHP] Need to display the request in descending order (moon01) - resolved.
+- 0135837: [-Bug PHP] Instruction to buyer field missing in edit job page (moon01) - resolved.
+- 0135836: [-Bug PHP] Select all ,none option missing in needs views listing page. (moon01) - resolved.
+- 0135835: [-Bug PHP] Need to give link for buyer and seller count in admin job index (moon01) - resolved.
+- 0135834: [-Bug PHP] Required is_active field in job_type table (moon01) - resolved.
+- 0135833: [-Bug PHP] Need to add is_approved field in job edit page (moon01) - resolved.
+- 0135832: [-Bug PHP] Need to add Counterscope in job model for job types and job category (moon01) - resolved.
+- 0135831: [-Bug PHP] Add facebook username in setting table (moon01) - resolved.
+- 0135830: [-Bug PHP] share icon missing in request view page (moon01) - resolved.
+- 0135829: [-Bug PHP] Remove the unwanted space in title (moon01) - resolved.
+- 0135828: [-Bug PHP] Need to add job type filter in job and Request page in admin index (moon01) - resolved.
+- 0135827: [-Bug PHP] Change the category link in request view page (moon01) - resolved.
+- 0135826: [-Bug PHP] Need to give the count value in cInt (moon01) - resolved.
+- 0135825: [-Bug PHP] Need to display the count value of mean rating and actual rating (moon01) - resolved.
+- 0135818: [+Enhancement] Address displayed in job view page. (aravindan_111act10) - resolved.
+- 0135819: [+Enhancement] Transactiont total amount displayeed in admin index transactions (aravindan_111act10) - resolved.
+- 0135820: [-Bug PHP] Google map - default location corrected by modifiying zoom level (aravindan_111act10) - resolved.
+- 0135821: [-Bug PHP] Google map - hides after validation issue fixed. (aravindan_111act10) - resolved.
+- 0135822: [-Bug PHP] Verification code hiden for online jobs (aravindan_111act10) - resolved.
+- 0135823: [+Enhancement] job and request fav added in admin stats. (aravindan_111act10) - resolved.
+- 0135824: [+Enhancement] function modifications like job favorites done for jobs flag, view and request view, flag and jobs (aravindan_111act10) - resolved.
+[40 issues]
+
+FP Ultra Plus - 1.0a04 (Released 2010-12-08) [ View Issues ] 
+=========================================================
+
+Fourth alpha version released on Dec 13, 2010 (rev 7909)
+
+- 0135663: [+DB Structure Change] - sample data from live added. (aravindan_111act10) - resolved.
+- 0135658: [+Enhancement] request checked for susp behaviour and other flags (aravindan_111act10) - resolved.
+- 0135659: [+Enhancement] top seller done (aravindan_111act10) - resolved.
+- 0135660: [+Enhancement] filter count added for buyer and seller (aravindan_111act10) - resolved.
+- 0135661: [-Bug PHP] - sidebar category issue fixed (aravindan_111act10) - resolved.
+- 0135662: [-Bug PHP] buy option in user view page - users gig issue fixed (aravindan_111act10) - resolved.
+- 0135664: [+Enhancement] keywork search added for needs (aravindan_111act10) - resolved.
+- 0135665: [+Enhancement] keywork search added for need_views (aravindan_111act10) - resolved.
+- 0135666: [+Enhancement] Settings - job tab - need validation for "Job - Minimum days" < "Job - Maximum days (aravindan_111act10) - resolved.
+- 0135667: [+Enhancement] "Request" need to change in admin side displays -> already we changed "gig" in settings, setting_categories model (aravindan_111act10) - resolved.
+- 0135668: [+Enhancement] settings -unwanted fields removed and labels corrected for jobs (aravindan_111act10) - resolved.
+- 0135669: [+Enhancement] - Highest rating filter modified. (aravindan_111act10) - resolved.
+- 0135670: [+Enhancement] - job feedback and job view keyword searcg added. (aravindan_111act10) - resolved.
+- 0135671: [+Enhancement] Admin sidebar -> active link class added for missing (aravindan_111act10) - resolved.
+- 0135616: [-Bug PHP] Problem arising in locating map (anandam_023ac09) - resolved.
+- 0135618: [-Bug PHP] Request link needs share option like jobs (anandam_023ac09) - resolved.
+- 0135619: [-Bug PHP] Need auto_approval settings for request and job (anandam_023ac09) - resolved.
+- 0135620: [-Bug PHP] Need to calculate the count value in job order page (anandam_023ac09) - resolved.
+- 0135644: [+Enhancement] request view page admin statics should be need (anandam_023ac09) - resolved.
+- 0135645: [-Bug PHP] Allow user to report flag on requests (settings, request) - it displayed two times (anandam_023ac09) - resolved.
+- 0135646: [-Bug PHP] Setting category listing order should be correctly (anandam_023ac09) - resolved.
+- 0135647: [-Bug PHP] after gig edit from admin side, its goes to start selling page (should redirect to jobs/index) (anandam_023ac09) - resolved.
+- 0135648: [-Bug PHP] http://localhost/fpplatformultraplus/admin/jobs [^] label should be changes (anandam_023ac09) - resolved.
+- 0135649: [-Bug PHP] job categories -> countercahe not working (anandam_023ac09) - resolved.
+- 0135650: [-Bug PHP] http://fpplatformultraplus.dev.agriya.com/admin/jobs [^] - Bulk option -> approve and Notapprove not working (anandam_023ac09) - resolved.
+- 0135651: [-Bug PHP] auto approve not working for request (anandam_023ac09) - resolved.
+- 0135652: [-Bug PHP] http://fpplatformultraplus.dev.agriya.com/needs [^] - tool tip wrong for "view page" (anandam_023ac09) - resolved.
+- 0135653: [-Bug PHP] http://fpplatformultraplus.dev.agriya.com/admin/jobs/ [^] - job type need to display (anandam_023ac09) - resolved.
+- 0135654: [-Bug PHP] - http://localhost/fpplatformultraplus/admin/job_categories/job_type_id:2 [^] - title should corrected. (Job Categories - Job Ty (anandam_023ac09) - resolved.
+- 0135642: [+Enhancement] bayesian rating implementation (boopathi_026ac09) - resolved.
+- 0135643: [+Enhancement] URL change for reqeusts (boopathi_026ac09) - resolved.
+- 0135623: [+DB Structure Change] Need to add Request flag count in request table (moon01) - resolved.
+- 0135622: [-Bug PHP] Need to add Request flag category like job fl;ag category (moon01) - resolved.
+- 0135621: [-Bug PHP] Need to add request flag like job flag (moon01) - resolved.
+- 0135541: [+Feature Additional] Only approved requests are displayed in index page. (usha_111at09) - resolved.
+- 0135540: [+Feature Additional] Based on that admin auto approval requests, it will displayed the status in my requests and my requests grid page. (usha_111at09) - resolved.
+- 0135539: [+Feature Additional] Admin settings added for admin auto approval request. (usha_111at09) - resolved.
+- 0135525: [-Bug PHP] Change teh label in http://fpplatformultraplus.dev.agriya.com/jobs/add [^] and (edit also): (moon01) - resolved.
+- 0135524: [-Bug PHP] Change the page title in http://localhost/fpplatformultraplus/requests [^] (moon01) - resolved.
+- 0135523: [-Bug PHP] Need to change the button name in http://fpplatformultraplus.dev.agriya.com/requests/add [^] (moon01) - resolved.
+- 0135522: [-Bug PHP] Need to remove the title (moon01) - resolved.
+- 0135521: [+DB Structure Change] Add pages table (moon01) - resolved.
+- 0135520: [-Bug PHP] Remove the link in http://localhost/fpplatformultraplus/requests/manage [^] (moon01) - resolved.
+- 0135519: [-Bug PHP] Need to add alternative name for job (moon01) - resolved.
+- 0135518: [-Bug PHP] Change the tool tip for request link in header (moon01) - resolved.
+- 0135517: [-Bug PHP] Need Validation for Current Active Order (moon01) - resolved.
+- 0135508: [+Feature Additional] request index page, job type filter added (usha_111at09) - resolved.
+- 0135507: [+Feature Additional] job edit page -> info added and paragraph div class added (usha_111at09) - resolved.
+- 0135506: [+Feature Additional] OR square bracket remove and bracket. job edit page -> job type div and job service div added (usha_111at09) - resolved.
+- 0135505: [+Feature Additional] request add=> info need in yellow colour (usha_111at09) - resolved.
+- 0135504: [+Feature Additional] Info need to job add page, category. (usha_111at09) - resolved.
+- 0135503: [+Feature Additional] job service => same as job type (usha_111at09) - resolved.
+- 0135502: [+Feature Additional] job type => info yellow color (usha_111at09) - resolved.
+- 0135501: [+Feature Additional] view:request - sepate view file -> index_reqeust.ctp - target blank for user linke also - no need share block (usha_111at09) - resolved.
+- 0135500: [+Feature Additional] link need for those two side bar online and offline /jobs/index/job_type_id: (usha_111at09) - resolved.
+- 0135499: [+Feature Additional] count needed for Online and Offline in side bar (usha_111at09) - resolved.
+- 0135498: [+Feature Additional] if jobs/index.ctp - view:request (no filter, 'target' -> '_blank' for gig link) - limit => 10 (usha_111at09) - resolved.
+- 0135497: [+Feature Additional] jobs/index/job_category_id:1/job_type_id:2/view:request (usha_111at09) - resolved.
+- 0135496: [+Feature Additional] http://localhost/fpplatformultraplus/admin/job_types [^] - need filter and link for all counts (usha_111at09) - resolved.
+- 0135494: [+Feature Additional] http://localhost/fpplatformultraplus/admin/job_categories [^] - Request count - and filter in request (usha_111at09) - resolved.
+- 0135493: [+Feature Additional] home tabs should not display in my jobs and my needs page. (usha_111at09) - resolved.
+- 0135492: [+Feature Additional] when seller option selected, covarage radius and miles fields need to validate (usha_111at09) - resolved.
+- 0135491: [+Feature Additional] when offline selected, job service fields should required. Need validation for this job service. (usha_111at09) - resolved.
+- 0135490: [+Feature Additional] online offline => required validation need to add (usha_111at09) - resolved.
+- 0135489: [+Feature Additional] request view link (for request) (usha_111at09) - resolved.
+- 0135488: [+Feature Additional] Request index page, Ip needs to be like IP (usha_111at09) - resolved.
+- 0135487: [+Feature Additional] view link -> admin/request_views/request_id:1 - handle display code in request_views index - http://localhost/fpplatformul [^] (usha_111at09) - resolved.
+- 0135486: [+Feature Additional] "Created" -> Posted On (move last) (usha_111at09) - resolved.
+- 0135485: [+Feature Additional] http://localhost/fpplatformultraplus/admin/requests/ [^] - request view link (for request) (usha_111at09) - resolved.
+- 0135484: [+Feature Additional] User view page, Act as seller and Act as buyer stats displayed. (usha_111at09) - resolved.
+- 0135483: [+Feature Additional] Job view page, Job stats and Seller stats displayed. (usha_111at09) - resolved.
+- 0135482: [+Feature Additional] Request add page, jobs displayed properly like index page. (usha_111at09) - resolved.
+- 0135481: [+Feature Additional] When online selected validation unset. (usha_111at09) - resolved.
+- 0135480: [+Feature Additional] When offline selected, service fields will displayed with validation. (usha_111at09) - resolved.
+- 0135479: [+Feature Additional] Job service hide default. (usha_111at09) - resolved.
+- 0135478: [+Feature Additional] Job adding time, job type online displayed as default. (usha_111at09) - resolved.
+- 0135477: [+Feature Additional] Request count field added in user table. (usha_111at09) - resolved.
+- 0135476: [+Feature Additional] Request reviews displayed in site stats. (usha_111at09) - resolved.
+- 0135475: [+Feature Additional] Request reviews displayed in admin side. (usha_111at09) - resolved.
+- 0135474: [+Feature Additional] Request reviews link added in admin side bar. (usha_111at09) - resolved.
+- 0135473: [+Feature Additional] In side bar, categories job and request counts are displayed based Job and Request selection. (usha_111at09) - resolved.
+- 0135472: [+Feature Additional] Related Jobs page, Removed view count. (usha_111at09) - resolved.
+- 0135471: [+Feature Additional] Related Jobs page, Title truncation added. (usha_111at09) - resolved.
+- 0135470: [+Feature Additional] Related Jobs page, User name displayed with title. (usha_111at09) - resolved.
+- 0135469: [+Feature Additional] Related Jobs page, Description removed. (usha_111at09) - resolved.
+- 0135468: [+Feature Additional] Related Jobs page, Price removed from image. (usha_111at09) - resolved.
+- 0135466: [+Feature Additional] Related Jobs page, Image displayed in small size. (usha_111at09) - resolved.
+- 0135465: [+Feature Additional] cCurrency displayed for amount in all pages. (usha_111at09) - resolved.
+- 0135464: [+Feature Additional] Request alternate name method added in request controller. (usha_111at09) - resolved.
+- 0135441: [-Bug PHP] Sort by IP , Ip should be in ip (moon01) - resolved.
+- 0135440: [-Bug PHP] Change the count value in cint (moon01) - resolved.
+- 0135397: [-Bug PHP] Change the link in http://localhost/fpplatformultraplus/admin/requests [^] (moon01) - resolved.
+- 0135396: [-Bug PHP] Need to change the case (moon01) - resolved.
+- 0135395: [-Bug PHP] REmove the user agent (moon01) - resolved.
+- 0135394: [-Bug PHP] Change the request link in header (moon01) - resolved.
+- 0135393: [+DB Structure Change] Need to add job_coverage_radius_units table (moon01) - resolved.
+[96 issues]
+
+FP Ultra Plus - 1.0a03 (Released 2010-12-07) [ View Issues ] 
+=========================================================
+
+third alpha version released on Dec 08, 2010 (rev 7476)
+
+- 0135392: [-Bug PHP] In progres overtime logic modified. (aravindan_111act10) - resolved.
+- 0135390: [+Enhancement] user and gig statistics functionality and fields added (aravindan_111act10) - resolved.
+- 0135391: [+Enhancement] Instruction to buyer functionlaity added and attachment n text inputs are saved (aravindan_111act10) - resolved.
+- 0135374: [+Feature Additional] Job listing should be need grid view. (anandam_023ac09) - resolved.
+- 0135375: [+Feature Additional] request listing should be need grid view. (anandam_023ac09) - resolved.
+- 0135376: [+Feature Additional] admin request add option should be need (anandam_023ac09) - resolved.
+- 0135377: [+Enhancement] front end requests/add page, jobs listing style should be same as job listing page (anandam_023ac09) - resolved.
+- 0135378: [-Bug PHP] job type listing order changes (anandam_023ac09) - resolved.
+- 0135379: [-Bug PHP] job add and edit page, show/hide option js work should be work correctly (anandam_023ac09) - resolved.
+- 0135380: [-Bug PHP] job type, job service location fields info should be add (anandam_023ac09) - resolved.
+- 0135309: [+Enhancement] Change the Request after the job (moon01) - resolved.
+- 0135293: [-Bug PHP] Error: Undefined variable: Request (moon01) - resolved.
+- 0135292: [-Bug PHP] Captilize offline and online in job_types. (moon01) - resolved.
+- 0135291: [-Bug PHP] Rename View as 'Views' in admin/request/index (moon01) - resolved.
+- 0135290: [+Enhancement] Need to change the "Request Created Jobs" to "Posted/Applied Jobs" and "Request Related Jobs" to "Related Jobs" (moon01) - resolved.
+- 0135289: [-Bug PHP] Change Job Count to Jobs in Request index page (moon01) - resolved.
+- 0135288: [-Bug PHP] remove "My request" link & "Add" link in Request index page (moon01) - resolved.
+- 0135287: [-Bug PHP] Job type ,job service location missing in job/edit page (moon01) - resolved.
+- 0135286: [-Bug PHP] Info message for job type and sertvice needed (moon01) - resolved.
+- 0135285: [-Bug PHP] Relationship needed (moon01) - resolved.
+- 0135284: [+DB Structure Change] Fields required (moon01) - resolved.
+- 0135283: [-Bug PHP] Renamefilter 'Pending payment' to 'Payment pending' in shopping page (moon01) - resolved.
+- 0135282: [-Bug PHP] Add default select for job type and job service location (moon01) - resolved.
+- 0135281: [-Bug PHP] Change the display radius (moon01) - resolved.
+- 0135280: [-Bug PHP] Request Notification mail function Need (moon01) - resolved.
+- 0135279: [-Bug PHP] Add Bayesian file in behaviour (moon01) - resolved.
+- 0135278: [+DB Structure Change] Add Address,Mobile no in user profile table (moon01) - resolved.
+- 0135277: [+Feature Additional] Change gigs as Jobs (moon01) - resolved.
+[28 issues]
+
+FP Ultra Plus - 1.0a02 (Released 2010-12-04) [ View Issues ] 
+=========================================================
+
+Second alpha version released on Dec 07, 2010 (rev 7295)
+
+- 0135202: [-Bug PHP] category add, edit and index to should be add type (anandam_023ac09) - resolved.
+- 0135203: [-Bug PHP] job add and edit page, user select type based should be load category. (anandam_023ac09) - resolved.
+- 0135204: [+Feature Additional] Admin statistic to add project view statistic (anandam_023ac09) - resolved.
+- 0135205: [+Feature Additional] request related jobs create page,should be need mapping our own project (anandam_023ac09) - resolved.
+- 0135206: [+Feature Additional] request related jobs create page,should be need mapping our own project listing pagination (anandam_023ac09) - resolved.
+- 0135207: [+Feature Additional] request page,should be need my request option (anandam_023ac09) - resolved.
+- 0135208: [+Feature Additional] request index page should be need (anandam_023ac09) - resolved.
+- 0135209: [+Feature Additional] request view page should be need (anandam_023ac09) - resolved.
+- 0135210: [+Feature Additional] request view page, should be display request related jobs and request to mapping jobs. (anandam_023ac09) - resolved.
+- 0135211: [+Feature Additional] request index page should be need filter option (anandam_023ac09) - resolved.
+- 0135212: [+Feature Additional] request add page, request related jobs are listed in near request name (anandam_023ac09) - resolved.
+- 0135213: [+Feature Additional] request add page, request type based category loading changes (anandam_023ac09) - resolved.
+- 0135214: [-Bug PHP] request mapping to jobs, count issue should be fixed (anandam_023ac09) - resolved.
+- 0135175: [+Enhancement] - Lat,log and zoom level update when filling up address also updates map (aravindan_111act10) - resolved.
+- 0135176: [+Enhancement] user and gig statistics added (aravindan_111act10) - resolved.
+- 0135177: [+Enhancement] job inprogress count updated in job orders, jobs and users. (aravindan_111act10) - resolved.
+- 0135158: [+Enhancement] Mobile validation from settings for mobile input pages (aravindan_111act10) - resolved.
+- 0135157: [+Enhancement] fill in order page for buyer process from edit profile (aravindan_111act10) - resolved.
+- 0135156: [+Enhancement] two step or one step in payment process (aravindan_111act10) - resolved.
+- 0135155: [+Enhancement] Order page google map (aravindan_111act10) - resolved.
+- 0135154: [+Enhancement] order page - buyer label removed (aravindan_111act10) - resolved.
+- 0135153: [+Enhancement] Info messages added in jobs/add page - descriptions (aravindan_111act10) - resolved.
+- 0135152: [+Enhancement] job type in first in job add page (aravindan_111act10) - resolved.
+- 0135151: [+Enhancement] online, offline countercache added (aravindan_111act10) - resolved.
+- 0135150: [-Bug PHP] remove track order for seller when status in payment pending (aravindan_111act10) - resolved.
+- 0135149: [-Bug PHP] Pending payment removed for seller (aravindan_111act10) - resolved.
+- 0135148: [+Enhancement] Edit profile - contacts grouped (aravindan_111act10) - resolved.
+- 0135147: [+Enhancement] Instruction to buyer moved to top (aravindan_111act10) - resolved.
+- 0135146: [+Enhancement] verification code caps - changed to case sensitive words (aravindan_111act10) - resolved.
+[29 issues]
+
+FP Ultra Plus - 1.0a01 (Released 2010-12-04) [ View Issues ] 
+=========================================================
+
+First alpha version released on Dec 04, 2010 (rev 7106)
+
+- 0135105: [+Enhancement] Offline gigs fields and database modified (aravindan_111act10) - resolved.
+- 0135106: [+Enhancement] Offline gigs google map added (aravindan_111act10) - resolved.
+- 0135107: [+Enhancement] Purchase process modified for offline works (aravindan_111act10) - resolved.
+- 0135108: [+Enhancement] Code verification process done for offline works (aravindan_111act10) - resolved.
+- 0135109: [+Enhancement] Print option added for offline works (aravindan_111act10) - resolved.
+- 0135110: [+Enhancement] Filters added for payment pending status (aravindan_111act10) - resolved.
+- 0135111: [+Enhancement] Request add process done (aravindan_111act10) - resolved.
+- 0135112: [+Enhancement] request view page added and folters added (aravindan_111act10) - resolved.
+- 0135113: [+Enhancement] Request mapping process done (aravindan_111act10) - resolved.
+- 0135114: [+DB Structure Change] Has many relationship added for gigs and requests (aravindan_111act10) - resolved.
+[10 issues]

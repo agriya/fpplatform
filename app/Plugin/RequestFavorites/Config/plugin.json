@@ -1,0 +1,19 @@
+{
+	"name" : "Request Favorites",
+	"description" : "By enabling this, user can add requests to their favorite list.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"parent": "1.Plugins For Request Module.Children",
+	"dependencies": {
+		"plugins" : {
+			"Requests" : "Requests"
+		}
+	},
+	"icon" : "heart",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "630",
+	"module_hash": "d1a70b6645baeb32f7591164e5f8792e"
+}
+

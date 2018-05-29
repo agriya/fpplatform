@@ -1,0 +1,15 @@
+{
+	"name" : "Requests",
+	"description" : "By enabling this, jobs owner can add updates on their jobs and get comments over them.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : "true",
+	"parent": "2.Modules.Children",
+	"subplugin" : "RequestFavorites,RequestFlags",
+	"icon" : "upload-alt",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "628",
+	"module_hash": "e00e3135a50f288e99300df0ae17f103"
+}

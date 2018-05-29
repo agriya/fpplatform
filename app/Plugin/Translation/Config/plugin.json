@@ -1,0 +1,14 @@
+{
+	"name" : "Translation",
+	"description" : "By enabling this, it helps the site to run the site in multiple languages.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : "true",
+	"parent": "3.Plugins For All Modules.Children.Others.Children",
+	"icon" : "magic",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "626",
+	"module_hash": "50aae95416e6ecb3844094b05a4c28be"
+}

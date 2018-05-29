@@ -1,0 +1,2 @@
+ document.getElementById('js-notification-block').innerHTML = '<?php echo preg_replace('/(\>)\s+(<?)/', '$1$2', $this->element('user_notification', array('config' => 'sec'))); ?>';
+document.getElementById('js-notification-block').className = '';

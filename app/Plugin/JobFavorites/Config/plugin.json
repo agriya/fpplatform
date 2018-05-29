@@ -1,0 +1,19 @@
+{
+	"name" : "Job Favorites",
+	"description" : "By enabling this, user can add jobs to their favorite list.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : false,
+	"parent": "2.Plugins For Job Module.Children",
+	"dependencies": {
+		"plugins" : {
+			"Jobs" : "Jobs"
+		}
+	},
+	"icon" : "file",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "",
+	"module_hash": ""
+}

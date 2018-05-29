@@ -1,0 +1,14 @@
+{
+	"name" : "SudoPay",
+	"description" : "Payment through SudoPay.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : "true",
+	"parent": "2.Plugins For All Modules.Children.Payments.Children",
+	"icon" : "sudopay",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "631",
+	"module_hash": "e559080d3d1388a507de3c132f3fd177"
+}

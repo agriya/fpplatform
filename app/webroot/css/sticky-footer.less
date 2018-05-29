@@ -1,0 +1,70 @@
+//Sticky Footer (http://ryanfait.com/sticky-footer/)
+//--------------------------------------------------
+html, body, .content{
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -@footer-height;
+}
+footer, .footer-push {
+    height: @footer-height;
+}
+
+//Sticky Footer for admin
+//--------------------------------------------------
+.admin{
+	.wrapper {
+		margin: 0 auto -@footer-small-height;
+	}
+	footer, .footer-push {
+		height: @footer-small-height;
+	}
+}
+// LANDSCAPE PHONE TO SMALL DESKTOP & PORTRAIT TABLET
+// --------------------------------------------------
+
+@media (max-width: 767px) {
+    .wrapper {
+        min-height: 0;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    footer, .footer-push {
+        height: auto;
+        margin: 0 -20px;
+        .container{
+            padding: 0 20px;
+         }
+    }
+
+}
+
+
+// PORTRAIT TABLET TO DEFAULT DESKTOP
+// ----------------------------------
+
+@media (min-width: 768px) and (max-width: 979px) {
+    .wrapper {
+        margin: 0 auto -@footer-height-tablet;
+    }
+    footer, .footer-push {
+        height: @footer-height-tablet;
+    }
+}
+
+
+// LARGE DESKTOP & UP
+// ------------------
+
+@media (min-width: 1024px) {
+    .wrapper {
+        margin: 0 auto -@footer-height-large;
+    }
+    footer, .footer-push {
+        height: @footer-height-large;
+    }
+}

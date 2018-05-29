@@ -1,0 +1,19 @@
+{
+	"name" : "Disputes",
+	"description" : "By enabling this, seller/buyer can send dispute about others. Admin will take final decision.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : "true",
+	"parent": "1.Plugins For Job Module.Children",
+	"dependencies": {
+		"plugins" : {
+			"Jobs" : "Jobs"
+		}
+	},
+	"icon" : "magic",
+	"disable" : 1,
+	"delete" : 0,
+	"module_id": "627",
+	"module_hash": "678872d472fa2f1c22fac45872cb0072"
+}
