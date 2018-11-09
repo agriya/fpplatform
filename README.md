@@ -51,7 +51,7 @@ Entry hover effect performs image zooming, in addition to this it also provides 
 
 ### Redeliver
 
-Buyer can now request redeliver the job, using 'Request Improvement Tab present during review status
+Buyer can now request redeliver the job, using Request Improvement Tab present during review status
 
 ### Mutual Cancel
 
@@ -61,11 +61,11 @@ Buyer will be refunded when canceling is done.
 
 ### Dispute
 
-Got a issue about buyer/seller, a great way to managing this is using our Dispute section added for managing dispute b/w users(buyer n seller)
+Got a issue about buyer/seller, a great way to managing this is using our Dispute section added for managing dispute b/w users(buyer n seller)
 
 ### Requests
 
-This is the improved feature of Fpplatform Suggestions.Users can clearly post what they exactly want. And users who can perform this action can easily add a job special for this request.
+This is the improved feature of Fpplatform Suggestions.Users can clearly post what they exactly want. And users who can perform this action can easily add a job special for this request.
 
 ### Widget
 
