@@ -1,6 +1,7 @@
 # FPPlatform
 
-FPPlatform is an open source online platform for buying and selling any kinds of micro jobs that is capable to run sites similar to fiverr,microworkers,etc. It is written in CakePHP with MySQL.
+FPPlatform is the fixed-price marketplace software that is capable to launch fiverr clones, microworkers, etc. Ideal for micro jobs, tasks, errands, etc marketplace where consumers outsource micro tasks or sellers offer micro online and offline services.
+
 
 > This is project is part of Agriya Open Source efforts. fpplatform was originally a paid script and was selling around 10000 Euros. It is now released under dual license (OSL 3.0 & Commercial) for open source community benefits.
 
@@ -116,6 +117,6 @@ All Submissions you make to fpplatform through GitHub are subject to the followi
 
 ### License
 
-Copyright (c) 2014-2018 [Agriya](https://www.agriya.com/).
+Copyright (c) 2014-2019 [Agriya](https://www.agriya.com/).
 
 Dual License (OSL 3.0 & [Commercial License](https://www.agriya.com/contact))
