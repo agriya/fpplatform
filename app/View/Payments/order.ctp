@@ -86,7 +86,7 @@ endif;
 						</div>
 					</div>
 					</div>
-			<? } ?>
+			<?php } ?>
 			
 			<?php echo $this->Form->end();?>				
 </div>
